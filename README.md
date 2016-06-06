@@ -1,6 +1,6 @@
 # Links for Ecology and Evolution
 
-A curated list of Links to Research Teams, Journals, Software, Learning Resources for Ecology and Evolution Inspired by * [awesome-R](](https://github.com/qinwf/awesome-R).
+A curated list of Links to Research Teams, Journals, Software, Learning Resources for Ecology and Evolution Inspired by * [awesome-R](https://github.com/qinwf/awesome-R).
 
 # Journals
 
