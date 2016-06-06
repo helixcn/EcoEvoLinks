@@ -2,8 +2,33 @@
 
 A curated list of Links to Research Teams, Journals, Software, Learning Resources for Ecology and Evolution Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
-# Journals
+- [Links for Ecology and Evolution](#Links for Ecology and Evolution)
+- [Journals](#Journals)
+- [Research Groups/Network](#Research Groups/Network)
+    - [Macroecology and Biogeography](#Macroecology and Biogeography)
+    - [Biodiversity and Global Change Lab](#Biodiversity and Global Change Lab)
+    - [Phylogenetic Comparative Methods ans Evolutionary Ecology](#Phylogenetic Comparative Methods ans Evolutionary Ecology)
+    - [Biodiversity and the determinants](#Biodiversity and the determinants)
+    - [Theoretical Ecology](#Theoretical Ecology)
+    - [Functional Ecology](#Functional Ecology)
+    - [Conservation Biology](#Conservation Biology)
+    - [Population Genetics](#Population Genetics)
+    - [Invasion Ecology](#Invasion Ecology)
+    - [Phylogenetic Software Developers](#Phylogenetic Software Developers)
+    - [Researchers in China](#Researchers in China)
+- [Resources for Data used in Ecology and Evolution](#Resources for Data used in Ecology and Evolution)
+- [Online Courses](#Online Courses)
+- [Software](#Software)
+    - [R resources](#R resources)
+    - [LaTeX](#LaTeX)
+    - [Software for Phylogenetic Comparative Methods](#Software for Phylogenetic Comparative Methods)
+    - [Software for Population Genetics](#Software for Population Genetics)
+    - [Software for Ecological Modelling, Biogeography & Conservation](#Software for Ecological Modelling, Biogeography & Conservation)
+- [Other Awesome Lists](#Other Awesome Lists)
+- [Contributing](#Contributing)
 
+
+# Journals
 * [Nature](http://www.nature.com/nature/current_issue.html)
 * [Science](http://www.sciencemag.org/content/current)
 * [Proc. Nat. Acad. Sci.](http://www.pnas.org/content/current)
@@ -260,7 +285,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Mesquite](http://mesquiteproject.org/Mesquite_Folder/docs/mesquite/manual.html)
 * [Phylocom](http://www.phylodiversity.net/phylocom/)
 * [APE](http://ape.mpl.ird.fr/)
-* [Lagrange](http://www.bioinformatics.org/~rick/software.html]
+* [Lagrange](http://www.bioinformatics.org/~rick/software.html)
 * [Lagrange](http://code.google.com/p/lagrange/)
 * [laser](http://cran.r-project.org/web/packages/laser/index.html)
 * [Biolinux](http://nebc.nox.ac.uk/tools/bio-linux/bio-linux-5.0)
