@@ -26,8 +26,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
     - [Software for Ecological Modelling, Biogeography & Conservation](#software-for-ecological-modelling,-biogeography-&-conservation)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
-
-
+
 # Journals
 * [Nature](http://www.nature.com/nature/current_issue.html)
 * [Science](http://www.sciencemag.org/content/current)
@@ -36,7 +35,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Methods in Ecology and Evolution](http://www.methodsinecologyandevolution.org/view/0/index.html)\
 * [Ecology](http://www.esajournals.org/loi/ecol)
 * [Ecological Monographs](http://www.esapubs.org/esapubs/journals/monographs.htm)
-* [The American Naturalist](http://www.jstor.org/action/showPublication?journalCode=amernatu)
+* [The American Naturalist](http://www.journals.uchicago.edu/toc/an/current)
 * [Ecology Letters](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291461-0248)
 * [Trends in Ecology and Evolution](http://www.elsevier.com/wps/find/journaldescription.cws_home/30339/description#description)
 * [Annual Review of Ecology and Systematics](http://www.annualreviews.org/journal/ecolsys)
@@ -50,23 +49,21 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Scientific Reports](http://www.nature.com/srep/)
 * [American Journal of Botany](http://www.amjbot.org/)
 * [Global Ecology and Biogeography](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291466-8238)
-* [Conservation Biology](http://www.wiley.com/bw/journal.asp?ref=0888-8892)
+* [Conservation Biology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1523-1739)
 * [Journal of Ecology](http://www.journalofecology.org/view/0/index.html)
-* [Oecologia](http://www.springer.com/life+sciences/ecology/journal/442)
+* [Oecologia](http://link.springer.com/journal/442)
 * [New Phytologist](http://onlinelibrary.wiley.com/doi/10.1111/nph.2011.190.issue-4/issuetoc)
-
-# Research Groups/Network
+* [Botanical Journal of the Linnean Society](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339)* [Taxon](http://www.ingentaconnect.com/content/iapt/tax)* [Journal of Systematics and Evolution] (http://www.jse.ac.cn/)
+# Research Network
 * [Phylodiversity network](http://www.phylodiversity.net/)
-* [Evolve Group](http://evolve.zoo.ox.ac.uk/Evolve/Welcome.html)
-* [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
-
+* [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
 ## Macroecology and Biogeography
 * [Prof. Jetz W. ](http://www.yale.edu/jetz/) - Yale University, USA
 * [Prof.Thuiller Lab](http://www.will.chez-alice.fr/) -Chez-alice University, France
 * [Prof.Alexandre F. Diniz-Filho](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=E877865 ) - Brazil
-* [Dr. Lauren. Buckley](http://www.unc.edu/~lbuckley/lab/pmwiki.php) - The University of North Carolina at Chapel Hil
+* [Dr. Lauren. Buckley](http://faculty.washington.edu/lbuckley/) - The University of Washintong
 * [Prof. Svenning](http://pure.au.dk/portal/en/svenning@biology.au.dk ) -The Arhus University
-* [Dr. Lavergne](http://sebastien.lavergne.perso.sfr.fr/Publications.html ) - Laboratoire d'Ecologie Alpine (LECA) CNRS - Université Grenoble Alpes (UMR 5553)
+* [Dr. Lavergne](http://seb.lavergne.free.fr/index.html) - Laboratoire d'Ecologie Alpine (LECA) CNRS - Université Grenoble Alpes (UMR 5553)
 * [Prof.Carsten Rahbek](http://macroecology.ku.dk/) - Univerisity of Copenhagen, Denmark 
 * [Dr. Holger Kreft](http://www.uni-bonn.de/~uzsxeg) - University of Goettingen
 * [Dr. Holger Kreft](http://www.uni-goettingen.de/en/128741.html) - Another Link
@@ -92,20 +89,20 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Prof. Schluter](http://www.zoology.ubc.ca/~schluter/ )
 * [Dr. Weir Lab](http://www.utsc.utoronto.ca/~jweir/research.html)
 * [Prof. Garland Lab](http://www.biology.ucr.edu/people/faculty/Garland/Garland2.html )
-* [Dr. T. Ingram](http://www.people.fas.harvard.edu/~ingram/web/Links.html )
+* [Dr. T. Ingram](http://www.otago.ac.nz/zoology/staff/ingram.html )
 * [Dr. Vincent Devictor](http://vincent.devictor.free.fr/)
-* [Prof. Jablonski](http://geosci.uchicago.edu/people/jablonski.shtml)
+* [Prof. Jablonski](http://geosci.uchicago.edu/people/david-jablonski/)
 * [Dr. Graham](http://life.bio.sunysb.edu/ee/grahamlab/)
-* [Prof. Richard Glor](http://www.rochester.edu/college/bio/professors/glor)
-* [Dr. Heard S. ](http://www.unb.ca/fredericton/science/biology/Faculty/Heard.html )
-* [Prof. Gittleman Lab](http://blackbear.ecology.uga.edu/gittleman/index.html)
+* [Prof. Richard Glor](http://biodiversity.res.ku.edu/herpetology/people/glor)
+* [Dr. Heard S. ](http://www2.unb.ca/~sheard/ ) - Understanding ecological controls on the evolution of biodiversity
+* [Prof. Gittleman Lab](http://gittleman.ecology.uga.edu/) - INSTITUTE OF ECOLOGY, ECOLOGY BUILDING, UNIVERSITY OF GEORGIA, ATHENS, GA 30602-2202
 * [Prof. Wainwright Lab at UC Davis](http://fishlab.ucdavis.edu/)
 * [Prof. Lovette](http://www.birds.cornell.edu/evb/Irby.htm )
-* [Dr. Sandrine Pavoine](http://www2.mnhn.fr/cersp/spip.php?rubrique26 )
+* [Dr. Sandrine Pavoine](https://www.researchgate.net/profile/Sandrine_Pavoine )
 * [Dr. Christine Meynard ](http://www.ensam.inra.fr/cbgp/?q=en/users/MEYNARD-Christine )
 * [Dr. Fordyce Lab](http://web.utk.edu/~jfordyce/)
 * [Dr. Brian O'Meara Lab](http://www.brianomeara.info/ )
-* [Dr. F. Bokma](http://www.bokmalab.net/)
+* [Dr. F. Bokma](http://www.emg.umu.se/om-institutionen/personal/bokma-folmer)
 * [Prof. M. Butler](http://www2.hawaii.edu/~mbutler/ )
 * [Dr. G. Hunt](http://paleobiology.si.edu/staff/individuals/hunt.cfm)
 * [Dr. Rabosky D. ](http://cteg.berkeley.edu/~rabosky/Home.html )
@@ -113,20 +110,20 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Dr. Harnik](http://pangea.stanford.edu/departments/ges/people/type/paul-harnik )
 * [Dr. W. John Kress](http://botany.si.edu/staff/staffPage.cfm?ThisName=2&homepage=no)
 * [Prof. Agapow P.](http://www.agapow.net )
-* [Dr. Michael T Monaghan](http://unio.igb-berlin.de/abt2/mitarbeiter/monaghan/ )
-* [Prof.Mooers A. ](http://www.sfu.ca/~amooers/publications.html)
+* [Dr. Michael T Monaghan](https://monaghanlab.org/mtm/) - Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)
+* [Prof. Mooers A.](http://www.sfu.ca/~amooers/publications.html)
 * [Prof. Mike Crisp](http://online.anu.edu.au/BoZo/Crisp/ )
 * [Prof. Ives A. Lab](http://www.zoology.wisc.edu/faculty/ive/ive.html)
-* [Prof.BolnickLab ](https://webspace.utexas.edu/dib73/TheBolnickLab/Home.html )
-* [Prof.Oakley Lab](http://www.lifesci.ucsb.edu/eemb/labs/oakley/index.html )
+* [Prof. Bolnick Lab](https://bolnicklab.wordpress.com/ ) - BOLNICK LAB AT THE UNIVERSITY OF TEXAS AT AUSTINEco-Evo-Immuno Dynamics
+* [Prof. Oakley Lab](http://www.lifesci.ucsb.edu/eemb/labs/oakley/index.html )
 
 ## Biodiversity and the determinants
 * [Dr. M. Cadotte](http://www.utsc.utoronto.ca/~mcadotte/index.html )
 * [Dr. Hardy Research Group](http://ebe.ulb.ac.be/ebe/Hardy.html)
-* [Dr.Mark Vellend](http://www3.botany.ubc.ca/vellend/index.htm)
-* [Dr. Petr Pyšek](http://www.ibot.cas.cz/personal/pysek/index.htm )
-* [Dr. Cam Webb ](http://www.phylodiversity.net/cwebb/     )
-* [Prof. Jérôme Chave](http://www.edb.ups-tlse.fr/equipe1/chave.htm )
+* [Dr. Mark Vellend](http://mvellend.recherche.usherbrooke.ca/)
+* [Dr. Petr Pyšek](http://www.parkpruhonice.cz/personal/pysek/ ) - Department of invasion ecology Botanický ústav Akademie věd ČR/Institute of Botany, Academy of Sciences of the Czech Republic 
+* [Dr. Cam Webb ](http://www.phylodiversity.net/cwebb/)
+* [Prof. Jérôme Chave](http://chave.ups-tlse.fr/ )
 * [Dr. Liza Comita](http://lizacomita.weebly.com/)
 * [Dr. Wil Cornwell](http://www.phylodiversity.net/wcornwell/ )
 * [Dr. Nate Swenson](https://www.msu.edu/~swensonn/Site_5/Home.html)
@@ -134,50 +131,49 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Dr.Ackerly Lab](http://ib.berkeley.edu/labs/ackerly/)
 * [Dr.Cavender-Bares Lab](http://www.cbs.umn.edu/cavender/index.shtml)
 * [Prof. Peres-Neto](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Home.html)
-* [Dr. Steve Kembel](http://www.phylodiversity.net/skembel/)
+* [Dr. Steve Kembel](http://kembellab.ca/)
 * [Prof.Enquist](http://eeb37.biosci.arizona.edu/~brian/Department_of_Ecology_and_Evolutionary_Biology/Enquist_Lab.html )
-* [Prof. Smith F. Lab](http://biology.unm.edu/fasmith/research.html)
-* [Prof.Legendre P. research group](http://www.bio.umontreal.ca/legendre/indexEn.html)
+* [Prof. Felisa Smith Lab](http://biology.unm.edu/fasmith/Members/) - University of New Mexico
+* [Prof. Pierre Legendre](http://www.bio.umontreal.ca/legendre/indexEn.html)
 * [Dr. Helene Morlon](http://www.cmap.polytechnique.fr/~morlon/)
 * [Dr. Vamosi](http://www.ucalgary.ca/~smvamosi/publications.htm)
 * [Prof. He Fangliang](http://www.ualberta.ca/~fhe/)
-* [Prof.Loreau](http://biology.mcgill.ca/faculty/loreau/#Anchor-Publication-47931)
-* [Prof. Tuomisto](http://vanha.sci.utu.fi/biologia/biodiversiteetti/tuomisto_eng.htm )
+* [Prof.Loreau](http://www.ecoex-moulis.cnrs.fr/spip.php?article47&lang=en)
+* [Prof. Tuomisto](https://www.researchgate.net/profile/Hanna_Tuomisto2 )
 * [Dr. Franck Jabot](https://sites.google.com/site/franckjabot/home)
 * [Prof.Bill Kunin, UK](http://www.fbs.leeds.ac.uk/staff/profile.php?tag=Kunin )
-* [Dr. François MUNOZ Tropical plant comminities](http://umramap.cirad.fr/amap3/cm/index.php?page=francois-munoz )
+* [Dr. François MUNOZ Tropical plant comminities](https://scholar.google.com/citations?user=pZTij0cAAAAJ&hl=en )
 * [Prof. Davies Lab](http://www.colorado.edu/eeb/EEBprojects/DaviesLab/ )
-* [Prof.Chase Lab ](http://sites.google.com/site/betadiversity/home ) - Process Governing species assembly over various scales
-* [Dr. Richard Davies ](http://biobis.bio.uea.ac.uk/biosql/fac_show.aspx?ID=395) -the evolutionary and ecological determinants of biodiversity distribution
+* [Prof. Jonathan M. Chase Lab ](https://sites.google.com/site/betadiversity/my-cv ) - Process Governing species assembly over various scales
+* [Dr. Richard Davies ](https://www.uea.ac.uk/biological-sciences/people/profile/richard-g-davies) -the evolutionary and ecological determinants of biodiversity distribution
 * [Prof. Green Lab](http://biology.uoregon.edu/people/green/index.html)
-* [Dr. Soininen](http://www.helsinki.fi/aquaticecology/index.htm )
+* [Dr. Janne Soininen](http://blogs.helsinki.fi/jhsoinin/ ) 
 * [Prof. Hillebrand lab](http://www.icbm.de/planktologie/33942.html )
 * [Prof. Jacob R. Goheen](http://www.zoology.ubc.ca/%7Egoheen/)
-* [Dr. Simon A. Queenborough ](http://www.simonqueenborough.com/index.html)
+* [Dr. Simon A. Queenborough ](https://environment.yale.edu/profile/queenborough/)
 * [Dr. N. Mouquet](http://nicolasmouquet.free.fr/)
 * [Dr. Nathan Kraft](http://www.zoology.ubc.ca/~nkraft/)
 
 ## Theoretical Ecology 
 * [Prof. Holyoak](http://www.des.ucdavis.edu/faculty/holyoak/ )
 * [Prof. Hurbert Lab](http://www.bio.unc.edu/Faculty/Hurlbert/lab/ )
-* [Prof. Angert](http://rydberg.biology.colostate.edu/angert/people.htm)
-* [Prof. Pedro Peres Neto, Canada](http://www.er.uqam.ca/nobel/gril/Site/PeresNeto.html)
-* [Prof. Cahill J.](http://www.biology.ualberta.ca/cahill_lab/publications.html)
+* [Prof. Amy Angert](http://angert.botany.ubc.ca/) - at the interface of ecology and evolutionary biology
+* [Prof. Pedro Peres Neto, Canada](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Pedro.html)
+* [Prof. Cahill J.](http://www.biology.ualberta.ca/cahill_lab/)
 
 ## Functional Ecology
 * [Dr. Moles A. New Zealand](http://www.vuw.ac.nz/staff/angela_moles/ )
 * [Prof. John Wakeley](http://www.oeb.harvard.edu/faculty/wakeley/John/wakeley.htm)
 
 ## Conservation Biology 
-* [Dr. Marco Pautasso ](http://sites.google.com/site/marpauta/home)
-* [Prof. Martin Sykes at Lund](http://www.nateko.lu.se/embers/sykesres.htm )
+* [Dr. Marco Pautasso ](https://sites.google.com/site/marpauta/home)
+* [Prof. Martin Sykes at Lund](https://www.researchgate.net/profile/Martin_Sykes/publications )
 * [Dr. Lee Hannah](http://www.bren.ucsb.edu/people/Faculty/lee_hannah.htm)
 * [Prof.Resit Akakaya USA](http://life.bio.sunysb.edu/ee/akcakayalab/ )
 * [Prof. Brook](http://www.adelaide.edu.au/directory/barry.brook )
 
 ## Population Genetics
 * [Dr. Siobhan Cooke](http://duke.academia.edu/SiobhanCooke/) - Evolution of new world's monkey
-* [Prof. Midgley](http://www.botany.uct.ac.za/midgley.html )  - Ecology and Pollination 
 * [Prof. Cajsa Lisa Anderson](http://cajsalisa.net/cajsalisa.index.html )
 * [Prof. Bruce Walsh](http://nitro.biosci.arizona.edu/)
 
@@ -190,20 +186,18 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Dr. christoph Heibl](http://www.christophheibl.de/ch-home.html)
 
 ## Researchers in China
-* [Prof. Kunfang Cao](http://sourcedb.xtbg.cas.cn/zw/zjrck/yjy/201008/t20100823_2930998.html)
+* [Prof. Kunfang Cao](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/)* [Prof. Chen Xiaoyong](http://faculty.ecnu.edu.cn/s/119/main.jspy)* [Prof. Wang Xihua](http://faculty.ecnu.edu.cn/s/1267/main.jspy) * [Prof. Zhou Shurong](http://life.fudan.edu.cn/Data/View/1460) - Fundan University
 * [Prof. Mingjian Yu](http://mypage.zju.edu.cn/fishmj)
-* [Prof. Guangze Jin](http://www.cnern.org/web/detail4.aspx?menuID=1914&userID=651)
-* [Dr. Junhua Hu](http://sourcedb.cib.cas.cn/zw/rck/201407/t20140718_4160408.html)
-* [Dr. Shaopeng Li](http://lishaopeng.weebly.com/index.html)
-* [Keping Ma (IBCAS, CN) ](http://www.kepingma.com/)
-* [Prof. Xuejun Ge (SCBG CN)](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html)
-* [Prof. Jing Li (NEAU, CN)](http://smkxxy.neau.edu.cn/show.asp?id=566)
-* [Dr. Shengbin Chen (NIESCN) <span></span>](http://shengbin.weebly.com)
-* [Dr. Jihong Huang](http://huangjihong.weebly.com/)[<span>(IBCAS, CN)</span> <span></span>](http://huangjihong.weebly.com/)
-* [Dr. Xiaojuan Liu (IBCAS CN) ](http://www.cfbiodiv.org/news.asp?id=5257)
-* [Dr. Lingfeng Mao (IBCAS CN) ](http://blog.sciencenet.cn/home.php?mod=space&uid=474707)
-* [Dr. Nancai Pei (SCBG CN)](http://nancaipei.weebly.com/index.html)
-
+* [Prof. Guangze Jin](https://www.researchgate.net/profile/Guangze_Jin2)
+* [Prof. Junhua Hu](http://sourcedb.cib.cas.cn/zw/rck/201407/t20140718_4160408.html)
+* [Prof. Keping Ma](http://www.kepingma.com/) -IBCAS
+* [Prof. Xuejun Ge ](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) - SCBG* [Prof. Chen Zhiduan](http://www.lseb.cn/chenzhiduan) -IBCAS* [Prof. Wang Zhiheng](http://www.ues.pku.edu.cn/szdw/personal/TeacherEasy.Asp?id=87) - Peking University* [Dr. Shaopeng Li](https://www.researchgate.net/profile/Shaopeng_Li3)
+* [Dr. Shengbin Chen](http://shengbin.weebly.com)
+* [Dr. Jihong Huang](http://huangjihong.weebly.com/)
+* [Dr. Xiaojuan Liu](http://www.cfbiodiv.org/news.asp?id=5257) -IBCAS
+* [Dr. Lingfeng Mao](http://lingfengmao.weebly.com/) - University of Alberta
+* [Dr. Nancai Pei](http://nancaipei.weebly.com/index.html) -DNA Barcoding
+* [Dr. Mi Xiangcheng] (http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS
 # Resources for Data used in Ecology and Evolution
 * [gbif](www.gbif.org/)
 * [Genbank](http://www.ncbi.nlm.nih.gov/genbank/)
@@ -216,7 +210,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Distribution maps of trees of North America](http://esp.cr.usgs.gov/data/little/)
 * [TimeTree](http://www.timetree.org/) - The divergence Time of two taxa
 * [TRY](https://www.try-db.org/TryWeb/Data.php) - a global database of plant traits
-
+
 # Online Courses
 * [Bayesian Inferences Lectures by P. Lam](http://www.people.fas.harvard.edu/~plam/teaching.html)
 * [Review Course: Markov Chains and Monte Carlo Methods](http://users.aims.ac.za/~ioana/)
@@ -234,7 +228,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [EEB courses on Ecology](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/EEB_2244/2244W_Ecology_Spring_2010)
 * [Phylogenetics (EEB)](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Phylogenetics:_Syllabus)
 * [Principles and Methods in Systematic Biology](http://hydrodictyon.eeb.uconn.edu/eebedia/index.php/Principles_and_Methods_of_Systematic_Biology_%28EEB_5347%29)
-* [Quantitative methods in Ecology and Evolution by Prof. Schluter (UBC)](http://www.zoology.ubc.ca/~schluter/bio548/)
+* [Quantitative methods in Ecology and Evolution by Prof. Schluter (UBC)](https://www.zoology.ubc.ca/~schluter/wordpress/teaching/)
 * [Principles and Practice of Phylogenetic Systematics ](http://www.faculty.biol.ttu.edu/Strauss/Phylogenetics/LectureNotes.htm)
 * [R workshop for phylogenetic comparative methods ](http://www.webpages.uidaho.edu/~lukeh/rFiles.html)
 * [Phylogenetic Comparative Methods ](http://systematics.mortonarb.org/lab/teaching/pcm35300.readings.html)
@@ -251,12 +245,10 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 
 # Software
 ## R resources
-* [R project](http://cran.r-project.org/)
-* [R-Graphical Manual](http://bm2.genes.nig.ac.jp/RGM2/index.php)
+* [R project](http://cran.r-project.org/)* [R free document](https://cran.r-project.org/other-docs.html)* [Quick R](http://www.statmethods.net/)
 * [R resources at NCEAS](http://www.nceas.ucsb.edu/scicomp/software/r)
-* [R resources at NCEAS](http://www.nceas.ucsb.edu/scicomp/documents)
 * [R-phylo Wiki](http://www.r-phylo.org/wiki/Main_Page)
-* [R Hackathon](https://www.nescent.org/wg_phyloinformatics/R_Hackathon_1)
+* [R Hackathon](https://www.researchgate.net/publication/36789527_Comparative_methods_in_R_hackathon)
 * [Analysis of Community data using R](http://ecology.msu.montana.edu/labdsv/R/labs/)
 * [F. Farrell's R resources](http://biostat.mc.vanderbilt.edu/wiki/Main/RS)
 * [R Programming for APTS Students at Oxford University by Prof. R. Ripley](http://www.stats.ox.ac.uk/~ruth/)
@@ -265,22 +257,21 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [R-Tips](http://pj.freefaculty.org/R/Rtips.html)
 * [Create Maps with R geographical Classes ](http://www.nceas.ucsb.edu/scicomp/usecases/CreateMapsWithRGraphics)
 * [Applied Spatial Statistics in R](http://www.people.fas.harvard.edu/~zhukov/spatial.html)
-
-## LaTeX 
-* [Chinese LaTeX](http://www.ctex.org/HomePage)
-* [An excellent formula editor](http://equalx.sourceforge.net/)
-
+* [r-popgen-hackathon](https://github.com/NESCent/r-popgen-hackathon)
+## LaTeX* [TeXLive](https://www.tug.org/texlive/)* [MikTeX](http://miktex.org/)
+* [Chinese LaTeX](http://www.ctex.org/HomePage)* [Latex Course in Chinese](http://math.ecnu.edu.cn/~latex/)
+* [An excellent Equation editor](http://equalx.sourceforge.net/)
 ## Software for Phylogenetic Comparative Methods
-* [BodegaWiki](http://bodegaphylo.wikispot.org/Topics)
+* [Tree Thinkers](http://treethinkers.org/)
 * [Joe Felsenstein's comprehensive list for Phylogenetic software](http://evolution.genetics.washington.edu/phylip/software.html)
 * [Software by Agapow](http://www.agapow.net/software)
-* [PAUP*](http://paup.csit.fsu.edu/)
+* [PAUP*](http://people.sc.fsu.edu/~dswofford/paup_test/)
 * [CLUSTAL](http://www.clustal.org/)
 * [MUSCLE](http://www.ebi.ac.uk/Tools/msa/muscle/)
 * [MrBayes](http://mrbayes.csit.fsu.edu/)
 * [BEAST, FigTree, PhyloGen and Tracer](http://tree.bio.ed.ac.uk/software/)
 * [MEGA](http://www.megasoftware.net/)
-* [r8s](http://loco.biosci.arizona.edu/r8s/)
+* [r8s](http://blog.sciencenet.cn/blog-255662-305898.html ) - not available at Mike's website http://loco.biosci.arizona.edu/r8s/* [PATHd8](http://www2.math.su.se/PATHd8/)* [PhyloBayes](http://bioinformatics.oxfordjournals.org/content/25/17/2286.full)
 * [multidivtime](http://statgen.ncsu.edu/thorne/multidivtime.html)
 * [Mesquite](http://mesquiteproject.org/Mesquite_Folder/docs/mesquite/manual.html)
 * [Phylocom](http://www.phylodiversity.net/phylocom/)
@@ -289,7 +280,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Lagrange](http://code.google.com/p/lagrange/)
 * [laser](http://cran.r-project.org/web/packages/laser/index.html)
 * [Biolinux](http://nebc.nox.ac.uk/tools/bio-linux/bio-linux-5.0)
-
+
 ## Software for Population Genetics
 * [Statistical Phylogeography](http://darwin.eeb.uconn.edu/wiki/index.php/Statistical_phylogeography)
 * [CREATE](https://bcrc.bio.umass.edu/pedigreesoftware/node/2)
@@ -301,7 +292,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [PhyloMapper](http://www.evotutor.org/PhyloMapper/)
 * [SSA Inference of Maximum Likelihood phylogenetic trees using a stochastic search algorithm](http://www.stat.osu.edu/~lkubatko/software.html)
 * [BEST Bayesian Estimation of Species Trees](http://www.stat.osu.edu/~dkp/BEST/introduction/)
-* [BEAST Tracer, BEAGLE](http://beast.bio.ed.ac.uk/Main_Page)
+* [BEAST Tracer, BEAGLE](http://beast.bio.ed.ac.uk/tracer)
 * [GEODIS: A tool to perform the nested clade phylogeographic analysis (NCPA)](http://darwin.uvigo.es/software/geodis.html)
 * [Diffusion Approximation for Demographic Inference](http://code.google.com/p/dadi/)
 * [Genetic Landscapes GIS Toolbox: Tools to create genetic divergence and diversity landscapes in ArcGIS ](http://www.werc.usgs.gov/productdetails.aspx?id=4017)
@@ -310,12 +301,8 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Software by Rannala research Group](http://www.rannala.org/?page_id=13)
 * [Structurama](http://cteg.berkeley.edu/~structurama/)
 * [Structure](http://pritch.bsd.uchicago.edu/structure.html)
-* [Software by Dr, Mark Beaumont](http://www.rubic.rdg.ac.uk/~mab/home.html)
-* [Software by Dr. Michael G. B. Blum ](http://membres-timc.imag.fr/Michael.Blum/index.html)
 * [popABC](http://code.google.com/p/popabc/)
-* [msBayes](http://msbayes.sourceforge.net/)
-* [EggLib](http://egglib.sourceforge.net/installation.html)
-
+* [msBayes](http://msbayes.sourceforge.net/)
 ## Software for Ecological Modelling, Biogeography & Conservation
 * [Forward Selectoin](http://r-forge.r-project.org/R/?group_id=195)
 * [SAM](http://www.ecoevol.ufg.br/sam)
