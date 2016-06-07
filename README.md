@@ -1,8 +1,7 @@
-# Links for Ecology and Evolution
-
+# Awesome Links for Ecology and Evolution
 A curated list of Links to Research Teams, Journals, Software, Learning Resources for Ecology and Evolution Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
-
-- [Links for Ecology and Evolution](#links-for-ecology-and-evolution)
+
+- [Awesome Links for Ecology and Evolution](#awesome-links-for-ecology-and-evolution)
 - [Journals](#journals)
 - [Research Groups/Network](#research-groups/network)
     - [Macroecology and Biogeography](#macroecology-and-biogeography)
@@ -128,21 +127,21 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Dr. Wil Cornwell](http://www.phylodiversity.net/wcornwell/ )
 * [Dr. Nate Swenson](https://www.msu.edu/~swensonn/Site_5/Home.html)
 * [Prof. Mouquet](http://www.eec.univ-montp2.fr/people/nicolas-mouquet/)
-* [Dr.Ackerly Lab](http://ib.berkeley.edu/labs/ackerly/)
-* [Dr.Cavender-Bares Lab](http://www.cbs.umn.edu/cavender/index.shtml)
+* [Dr. Ackerly Lab](http://ib.berkeley.edu/labs/ackerly/)
+* [Dr. Cavender-Bares Lab](http://www.cbs.umn.edu/cavender/index.shtml)
 * [Prof. Peres-Neto](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Home.html)
 * [Dr. Steve Kembel](http://kembellab.ca/)
-* [Prof.Enquist](http://eeb37.biosci.arizona.edu/~brian/Department_of_Ecology_and_Evolutionary_Biology/Enquist_Lab.html )
+* [Prof. Enquist](http://eeb37.biosci.arizona.edu/~brian/Department_of_Ecology_and_Evolutionary_Biology/Enquist_Lab.html )
 * [Prof. Felisa Smith Lab](http://biology.unm.edu/fasmith/Members/) - University of New Mexico
 * [Prof. Pierre Legendre](http://www.bio.umontreal.ca/legendre/indexEn.html)
 * [Dr. Helene Morlon](http://www.cmap.polytechnique.fr/~morlon/)
 * [Dr. Vamosi](http://www.ucalgary.ca/~smvamosi/publications.htm)
 * [Prof. He Fangliang](http://www.ualberta.ca/~fhe/)
-* [Prof.Loreau](http://www.ecoex-moulis.cnrs.fr/spip.php?article47&lang=en)
+* [Prof. Loreau](http://www.ecoex-moulis.cnrs.fr/spip.php?article47&lang=en)
 * [Prof. Tuomisto](https://www.researchgate.net/profile/Hanna_Tuomisto2 )
 * [Dr. Franck Jabot](https://sites.google.com/site/franckjabot/home)
-* [Prof.Bill Kunin, UK](http://www.fbs.leeds.ac.uk/staff/profile.php?tag=Kunin )
-* [Dr. François MUNOZ Tropical plant comminities](https://scholar.google.com/citations?user=pZTij0cAAAAJ&hl=en )
+* [Prof. Bill Kunin](http://www.fbs.leeds.ac.uk/staff/profile.php?tag=Kunin )
+* [Dr. François MUNOZ](https://scholar.google.com/citations?user=pZTij0cAAAAJ&hl=en ) - Tropical plant comminities
 * [Prof. Davies Lab](http://www.colorado.edu/eeb/EEBprojects/DaviesLab/ )
 * [Prof. Jonathan M. Chase Lab ](https://sites.google.com/site/betadiversity/my-cv ) - Process Governing species assembly over various scales
 * [Dr. Richard Davies ](https://www.uea.ac.uk/biological-sciences/people/profile/richard-g-davies) -the evolutionary and ecological determinants of biodiversity distribution
@@ -158,7 +157,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Prof. Holyoak](http://www.des.ucdavis.edu/faculty/holyoak/ )
 * [Prof. Hurbert Lab](http://www.bio.unc.edu/Faculty/Hurlbert/lab/ )
 * [Prof. Amy Angert](http://angert.botany.ubc.ca/) - at the interface of ecology and evolutionary biology
-* [Prof. Pedro Peres Neto, Canada](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Pedro.html)
+* [Prof. Pedro Peres Neto](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Pedro.html)
 * [Prof. Cahill J.](http://www.biology.ualberta.ca/cahill_lab/)
 
 ## Functional Ecology
@@ -245,8 +244,8 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 
 # Software
 ## R resources
-* [R project](http://cran.r-project.org/)* [R free document](https://cran.r-project.org/other-docs.html)* [Quick R](http://www.statmethods.net/)
-* [R resources at NCEAS](http://www.nceas.ucsb.edu/scicomp/software/r)
+* [R project](http://cran.r-project.org/)* [R Free Documents](https://cran.r-project.org/other-docs.html)* [Quick R](http://www.statmethods.net/)
+* [R Resources at NCEAS](http://www.nceas.ucsb.edu/scicomp/software/r)
 * [R-phylo Wiki](http://www.r-phylo.org/wiki/Main_Page)
 * [R Hackathon](https://www.researchgate.net/publication/36789527_Comparative_methods_in_R_hackathon)
 * [Analysis of Community data using R](http://ecology.msu.montana.edu/labdsv/R/labs/)
@@ -260,7 +259,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [r-popgen-hackathon](https://github.com/NESCent/r-popgen-hackathon)
 ## LaTeX* [TeXLive](https://www.tug.org/texlive/)* [MikTeX](http://miktex.org/)
 * [Chinese LaTeX](http://www.ctex.org/HomePage)* [Latex Course in Chinese](http://math.ecnu.edu.cn/~latex/)
-* [An excellent Equation editor](http://equalx.sourceforge.net/)
+* [An Excellent Equation Editor](http://equalx.sourceforge.net/)
 ## Software for Phylogenetic Comparative Methods
 * [Tree Thinkers](http://treethinkers.org/)
 * [Joe Felsenstein's comprehensive list for Phylogenetic software](http://evolution.genetics.washington.edu/phylip/software.html)
@@ -271,7 +270,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [MrBayes](http://mrbayes.csit.fsu.edu/)
 * [BEAST, FigTree, PhyloGen and Tracer](http://tree.bio.ed.ac.uk/software/)
 * [MEGA](http://www.megasoftware.net/)
-* [r8s](http://blog.sciencenet.cn/blog-255662-305898.html ) - not available at Mike's website http://loco.biosci.arizona.edu/r8s/* [PATHd8](http://www2.math.su.se/PATHd8/)* [PhyloBayes](http://bioinformatics.oxfordjournals.org/content/25/17/2286.full)
+* [r8s](http://blog.sciencenet.cn/blog-255662-305898.html ) - not available at Mike's website (http://loco.biosci.arizona.edu/r8s/)* [PATHd8](http://www2.math.su.se/PATHd8/)* [PhyloBayes](http://bioinformatics.oxfordjournals.org/content/25/17/2286.full)
 * [multidivtime](http://statgen.ncsu.edu/thorne/multidivtime.html)
 * [Mesquite](http://mesquiteproject.org/Mesquite_Folder/docs/mesquite/manual.html)
 * [Phylocom](http://www.phylodiversity.net/phylocom/)
@@ -327,7 +326,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [MAXENT](http://www.cs.princeton.edu/~schapire/maxent/)
 * [GIS Software and Data](http://macroecology.ku.dk/resources/gis-software/)
 * [Evolutionary Biology & Ecology Universitel Libre de Bruxelles](http://ebe.ulb.ac.be/ebe/ebe-Welcome.html)
-
+
 # Other Awesome Lists
 
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
