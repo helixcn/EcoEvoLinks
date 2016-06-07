@@ -93,7 +93,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Prof. Jablonski](http://geosci.uchicago.edu/people/david-jablonski/)
 * [Dr. Graham](http://life.bio.sunysb.edu/ee/grahamlab/)
 * [Prof. Richard Glor](http://biodiversity.res.ku.edu/herpetology/people/glor)
-* [Dr. Heard S. ](http://www2.unb.ca/~sheard/ ) - Understanding ecological controls on the evolution of biodiversity
+* [Dr. Heard S.](http://www2.unb.ca/~sheard/ ) - Understanding ecological controls on the evolution of biodiversity
 * [Prof. Gittleman Lab](http://gittleman.ecology.uga.edu/) - INSTITUTE OF ECOLOGY, ECOLOGY BUILDING, UNIVERSITY OF GEORGIA, ATHENS, GA 30602-2202
 * [Prof. Wainwright Lab at UC Davis](http://fishlab.ucdavis.edu/)
 * [Prof. Lovette](http://www.birds.cornell.edu/evb/Irby.htm )
