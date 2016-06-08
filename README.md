@@ -52,10 +52,10 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Journal of Ecology](http://www.journalofecology.org/view/0/index.html)
 * [Oecologia](http://link.springer.com/journal/442)
 * [New Phytologist](http://onlinelibrary.wiley.com/doi/10.1111/nph.2011.190.issue-4/issuetoc)
-* [Botanical Journal of the Linnean Society](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339)* [Taxon](http://www.ingentaconnect.com/content/iapt/tax)* [Journal of Systematics and Evolution] (http://www.jse.ac.cn/)
+* [Botanical Journal of the Linnean Society](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339)* [Taxon](http://www.ingentaconnect.com/content/iapt/tax)* [Journal of Systematics and Evolution] (http://www.jse.ac.cn/)* [Biodiversity Science in Chinese] (http://www.biodiversity-science.net/CN/volumn/current.shtml)
 # Research Network
 * [Phylodiversity network](http://www.phylodiversity.net/)
-* [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
+* [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
 ## Macroecology and Biogeography
 * [Prof. Jetz W. ] (http://www.yale.edu/jetz/) - Yale University, USA
 * [Prof. Thuiller Lab](http://www.will.chez-alice.fr/) -Chez-Alice University, France
@@ -74,8 +74,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Dr. Antoine Guisan](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-antoine-guisan.html) - Univerisite de Lausanne
 * [Dr. Linda Beaumount](http://www.ljbeaumont.com/index.html ) - Department of Biological Sciences, Macquarie University, Australia, Niche Modeling
 * [Prof. Kerr Lab](http://www.macroecology.ca/Welcome.html) - University of Ottawa
-* [Prof. Richard Corlett ](http://sourcedb.cas.cn/sourcedb_xtbg_cas/yw/rc/fas/201208/t20120814_3626801.html) - Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
-
+* [Prof. Richard Corlett ](http://sourcedb.cas.cn/sourcedb_xtbg_cas/yw/rc/fas/201208/t20120814_3626801.html) - Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 ## Phylogenetic Comparative Methods ans Evolutionary Ecology  
 * [Prof. J. Losos](http://www.oeb.harvard.edu/faculty/losos/ ) - Evolution of Lizards, at Havard University
 * [Prof. Rob Freckleton](http://www.sheffield.ac.uk/aps/staff-and-students/acadstaff/freckleton ) - Plant population ecology, modelling plant populations, modelling weed populations. Evolutionary ecology, phylogenetic comparative methodology and its application to ecological problems. 
@@ -84,7 +83,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Prof. McPeek](http://www.enallagma.com/index.php) - how communities of organisms are assembled and structured across the landscape
 * [Prof. Wiens](http://www.wienslab.com/Home.html ) - Evolution of adaptation of world's amphibians
 * [Prof. D. Schluter](https://www.zoology.ubc.ca/~schluter/wordpress/) - UBC
-* [Dr. Weir Lab](http://www.utsc.utoronto.ca/~jweir/) - University of Toronto
+* [Dr. Weir Lab](http://www.utsc.utoronto.ca/~jweir/) - University of Torontohttp://blackrim.org/
 * [Prof. Garland Lab](http://www.biology.ucr.edu/people/faculty/Garland/Garland2.html ) -UC Riverside
 * [Dr. T. Ingram](http://www.otago.ac.nz/zoology/staff/ingram.html ) - 
 * [Dr. Vincent Devictor](http://vincent.devictor.free.fr/)
@@ -111,7 +110,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Prof. Mike Crisp](http://biology.anu.edu.au/research/labs/crisp-lab-plant-systematics-and-biogeography )
 * [Prof. Ives A. Lab](http://zoology.wisc.edu/faculty/ive/ive.html)
 * [Prof. Bolnick Lab](https://bolnicklab.wordpress.com/ ) - BOLNICK LAB AT THE UNIVERSITY OF TEXAS AT AUSTINEco-Evo-Immuno Dynamics
-* [Prof. Oakley Lab](https://labs.eemb.ucsb.edu/oakley/todd/ )* [Dr. Alexei Drummond](http://compevol.auckland.ac.nz/dr-alexei-drummond/)* [BEAST](http://www.cs.auckland.ac.nz/our_staff/profile.php?id=adru001)* [Dr. Christoph Heibl](http://www.christophheibl.de/ch-home.html)* [Prof. Wayne Maddison Lab] (https://waynemaddisonlab.wordpress.com/)
+* [Prof. Oakley Lab](https://labs.eemb.ucsb.edu/oakley/todd/ )* [Dr. Alexei Drummond](http://compevol.auckland.ac.nz/dr-alexei-drummond/)* [BEAST](http://www.cs.auckland.ac.nz/our_staff/profile.php?id=adru001)* [Dr. Christoph Heibl](http://www.christophheibl.de/ch-home.html)* [Prof. Wayne Maddison Lab] (https://waynemaddisonlab.wordpress.com/)* [Dr. Stacy Smith Lab] http://www.colorado.edu/smithlab/people/stacey-d-smith
 ## Biodiversity and the determinants
 * [Dr. M. Cadotte](http://www.utsc.utoronto.ca/~mcadotte/index.html )
 * [Dr. Hardy Research Group](http://ebe.ulb.ac.be/ebe/Hardy.html)
