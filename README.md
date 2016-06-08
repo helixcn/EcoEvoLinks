@@ -83,7 +83,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Prof. McPeek](http://www.enallagma.com/index.php) - how communities of organisms are assembled and structured across the landscape
 * [Prof. Wiens](http://www.wienslab.com/Home.html ) - Evolution of adaptation of world's amphibians
 * [Prof. D. Schluter](https://www.zoology.ubc.ca/~schluter/wordpress/) - UBC
-* [Dr. Weir Lab](http://www.utsc.utoronto.ca/~jweir/) - University of Torontohttp://blackrim.org/
+* [Dr. Weir Lab](http://www.utsc.utoronto.ca/~jweir/) - University of Toronto* [Dr. Stephen Smith Lab](http://blackrim.org/)
 * [Prof. Garland Lab](http://www.biology.ucr.edu/people/faculty/Garland/Garland2.html ) -UC Riverside
 * [Dr. T. Ingram](http://www.otago.ac.nz/zoology/staff/ingram.html ) - 
 * [Dr. Vincent Devictor](http://vincent.devictor.free.fr/)
