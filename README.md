@@ -57,65 +57,61 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Phylodiversity network](http://www.phylodiversity.net/)
 * [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
 ## Macroecology and Biogeography
-* [Prof. Jetz W. ](http://www.yale.edu/jetz/) - Yale University, USA
-* [Prof.Thuiller Lab](http://www.will.chez-alice.fr/) -Chez-alice University, France
-* [Prof.Alexandre F. Diniz-Filho](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=E877865 ) - Brazil
+* [Prof. Jetz W. ] (http://www.yale.edu/jetz/) - Yale University, USA
+* [Prof. Thuiller Lab](http://www.will.chez-alice.fr/) -Chez-Alice University, France
+* [Prof. Alexandre F. Diniz-Filho](https://scholar.google.com/citations?user=scYHGuQAAAAJ&hl=en) - Brazil
 * [Dr. Lauren. Buckley](http://faculty.washington.edu/lbuckley/) - The University of Washintong
-* [Prof. Svenning](http://pure.au.dk/portal/en/svenning@biology.au.dk ) -The Arhus University
+* [Prof. J. Svenning](http://pure.au.dk/portal/en/svenning@biology.au.dk ) -The Arhus University
 * [Dr. Lavergne](http://seb.lavergne.free.fr/index.html) - Laboratoire d'Ecologie Alpine (LECA) CNRS - Université Grenoble Alpes (UMR 5553)
-* [Prof.Carsten Rahbek](http://macroecology.ku.dk/) - Univerisity of Copenhagen, Denmark 
-* [Dr. Holger Kreft](http://www.uni-bonn.de/~uzsxeg) - University of Goettingen
-* [Dr. Holger Kreft](http://www.uni-goettingen.de/en/128741.html) - Another Link
-
+* [Prof. Carsten Rahbek](http://macroecology.ku.dk/) - Univerisity of Copenhagen, Denmark 
+* [Dr. Holger Kreft](http://www.uni-goettingen.de/en/218853.html) - University of Goettingen
 ## Biodiversity and Global Change Lab
-* [Dr. Miguel B. Araújo](http://www.maraujolab.com/) -PREDICTING THE EFFECTS OF ENVIRONMENTAL CHANGE ON BIODIVERSITY
-* [Prof. Brown J.](http://biology.unm.edu/jhbrown/index.shtml) -Interdisciplinary Biology, Community Ecology, Biogeography, Allometry
-* [Prof. Gaston](http://kevingaston.com/)  -Conservation at University of Exeter
-* [Prof. Hawkins B. ](http://www.faculty.uci.edu/profile.cfm?faculty_id=4562) -University of California, Irvine
-* [Prof. Robert J. Whittaker](http://www.geog.ox.ac.uk/staff/rwhittaker.html) -School of Geography and the Environment, University of Oxford
+* [Dr. Miguel B. Araújo](http://www.maraujolab.com/) - PREDICTING THE EFFECTS OF ENVIRONMENTAL CHANGE ON BIODIVERSITY
+* [Prof. Brown J.](http://biology.unm.edu/jhbrown/index.shtml) - Interdisciplinary Biology, Community Ecology, Biogeography, Allometry
+* [Prof. Gaston](http://kevingaston.com/)  - Conservation at University of Exeter
+* [Prof. Hawkins B. ](http://www.faculty.uci.edu/profile.cfm?faculty_id=4562) - University of California, Irvine
+* [Prof. Robert J. Whittaker](http://www.geog.ox.ac.uk/staff/rwhittaker.html) - School of Geography and the Environment, University of Oxford
 * [Dr. Antoine Guisan](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-antoine-guisan.html) - Univerisite de Lausanne
 * [Dr. Linda Beaumount](http://www.ljbeaumont.com/index.html ) - Department of Biological Sciences, Macquarie University, Australia, Niche Modeling
 * [Prof. Kerr Lab](http://www.macroecology.ca/Welcome.html) - University of Ottawa
 * [Prof. Richard Corlett ](http://sourcedb.cas.cn/sourcedb_xtbg_cas/yw/rc/fas/201208/t20120814_3626801.html) - Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 
 ## Phylogenetic Comparative Methods ans Evolutionary Ecology  
-* [Prof. Losos](http://www.oeb.harvard.edu/faculty/losos/ ) - Evolution of Lizards, at Havard University
+* [Prof. J. Losos](http://www.oeb.harvard.edu/faculty/losos/ ) - Evolution of Lizards, at Havard University
 * [Prof. Rob Freckleton](http://www.sheffield.ac.uk/aps/staff-and-students/acadstaff/freckleton ) - Plant population ecology, modelling plant populations, modelling weed populations. Evolutionary ecology, phylogenetic comparative methodology and its application to ecological problems. 
-* [Prof. Purvis Lab](http://www3.imperial.ac.uk/people/a.purvis ) -Natural History Museum, London, UK
-* [Prof. Felsenstein ](http://evolution.gs.washington.edu/felsenstein.html) - University of Washington
+* [Prof. A. Purvis Lab](http://www3.imperial.ac.uk/people/a.purvis ) - Natural History Museum, London, UK
+* [Prof. J. Felsenstein](http://evolution.gs.washington.edu/felsenstein.html) - University of Washington
 * [Prof. McPeek](http://www.enallagma.com/index.php) - how communities of organisms are assembled and structured across the landscape
-* [Prof. Wiens](http://life.bio.sunysb.edu/ee/wienslab/homepage.html )
-* [Prof. Schluter](http://www.zoology.ubc.ca/~schluter/ )
-* [Dr. Weir Lab](http://www.utsc.utoronto.ca/~jweir/research.html)
-* [Prof. Garland Lab](http://www.biology.ucr.edu/people/faculty/Garland/Garland2.html )
-* [Dr. T. Ingram](http://www.otago.ac.nz/zoology/staff/ingram.html )
+* [Prof. Wiens](http://www.wienslab.com/Home.html ) - Evolution of adaptation of world's amphibians
+* [Prof. D. Schluter](https://www.zoology.ubc.ca/~schluter/wordpress/) - UBC
+* [Dr. Weir Lab](http://www.utsc.utoronto.ca/~jweir/) - University of Toronto
+* [Prof. Garland Lab](http://www.biology.ucr.edu/people/faculty/Garland/Garland2.html ) -UC Riverside
+* [Dr. T. Ingram](http://www.otago.ac.nz/zoology/staff/ingram.html ) - 
 * [Dr. Vincent Devictor](http://vincent.devictor.free.fr/)
-* [Prof. Jablonski](http://geosci.uchicago.edu/people/david-jablonski/)
-* [Dr. Graham](http://life.bio.sunysb.edu/ee/grahamlab/)
+* [Prof. David Jablonski](http://geosci.uchicago.edu/people/david-jablonski/)
+* [Dr. C. Graham](http://catherinegraham.weebly.com/) - Stony Brook University
 * [Prof. Richard Glor](http://biodiversity.res.ku.edu/herpetology/people/glor)
 * [Dr. Heard S.](http://www2.unb.ca/~sheard/ ) - Understanding ecological controls on the evolution of biodiversity
 * [Prof. Gittleman Lab](http://gittleman.ecology.uga.edu/) - INSTITUTE OF ECOLOGY, ECOLOGY BUILDING, UNIVERSITY OF GEORGIA, ATHENS, GA 30602-2202
 * [Prof. Wainwright Lab at UC Davis](http://fishlab.ucdavis.edu/)
-* [Prof. Lovette](http://www.birds.cornell.edu/evb/Irby.htm )
+* [Prof. Lovette](http://www.eeb.cornell.edu/lovette/ )
 * [Dr. Sandrine Pavoine](https://www.researchgate.net/profile/Sandrine_Pavoine )
-* [Dr. Christine Meynard ](http://www.ensam.inra.fr/cbgp/?q=en/users/MEYNARD-Christine )
+* [Dr. Christine Meynard ](http://www.vims.edu/about/directory/faculty/meynard_c.php )
 * [Dr. Fordyce Lab](http://web.utk.edu/~jfordyce/)
 * [Dr. Brian O'Meara Lab](http://www.brianomeara.info/ )
 * [Dr. F. Bokma](http://www.emg.umu.se/om-institutionen/personal/bokma-folmer)
 * [Prof. M. Butler](http://www2.hawaii.edu/~mbutler/ )
 * [Dr. G. Hunt](http://paleobiology.si.edu/staff/individuals/hunt.cfm)
-* [Dr. Rabosky D. ](http://cteg.berkeley.edu/~rabosky/Home.html )
+* [Dr. Rabosky D. ](http://www-personal.umich.edu/~drabosky/Home.html )
 * [Prof. M. Willig](http://hydrodictyon.eeb.uconn.edu/people/willig/index.htm)
-* [Dr. Harnik](http://pangea.stanford.edu/departments/ges/people/type/paul-harnik )
 * [Dr. W. John Kress](http://botany.si.edu/staff/staffPage.cfm?ThisName=2&homepage=no)
 * [Prof. Agapow P.](http://www.agapow.net )
 * [Dr. Michael T Monaghan](https://monaghanlab.org/mtm/) - Leibniz-Institute of Freshwater Ecology and Inland Fisheries (IGB)
-* [Prof. Mooers A.](http://www.sfu.ca/~amooers/publications.html)
-* [Prof. Mike Crisp](http://online.anu.edu.au/BoZo/Crisp/ )
-* [Prof. Ives A. Lab](http://www.zoology.wisc.edu/faculty/ive/ive.html)
+* [Prof. Mooers A.](https://arnemooerssite.wordpress.com/)
+* [Prof. Mike Crisp](http://biology.anu.edu.au/research/labs/crisp-lab-plant-systematics-and-biogeography )
+* [Prof. Ives A. Lab](http://zoology.wisc.edu/faculty/ive/ive.html)
 * [Prof. Bolnick Lab](https://bolnicklab.wordpress.com/ ) - BOLNICK LAB AT THE UNIVERSITY OF TEXAS AT AUSTINEco-Evo-Immuno Dynamics
-* [Prof. Oakley Lab](http://www.lifesci.ucsb.edu/eemb/labs/oakley/index.html )
-
+* [Prof. Oakley Lab](https://labs.eemb.ucsb.edu/oakley/todd/ )* [Dr. Alexei Drummond](http://compevol.auckland.ac.nz/dr-alexei-drummond/)* [BEAST](http://www.cs.auckland.ac.nz/our_staff/profile.php?id=adru001)* [Dr. Christoph Heibl](http://www.christophheibl.de/ch-home.html)* [Prof. Wayne Maddison Lab] (https://waynemaddisonlab.wordpress.com/)
 ## Biodiversity and the determinants
 * [Dr. M. Cadotte](http://www.utsc.utoronto.ca/~mcadotte/index.html )
 * [Dr. Hardy Research Group](http://ebe.ulb.ac.be/ebe/Hardy.html)
@@ -124,81 +120,73 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Dr. Cam Webb ](http://www.phylodiversity.net/cwebb/)
 * [Prof. Jérôme Chave](http://chave.ups-tlse.fr/ )
 * [Dr. Liza Comita](http://lizacomita.weebly.com/)
-* [Dr. Wil Cornwell](http://www.phylodiversity.net/wcornwell/ )
-* [Dr. Nate Swenson](https://www.msu.edu/~swensonn/Site_5/Home.html)
-* [Prof. Mouquet](http://www.eec.univ-montp2.fr/people/nicolas-mouquet/)
+* [Dr. Wil Cornwell](http://willcornwell.org/ )
+* [Dr. Nate Swenson](http://www.swensonlab.com/)
+* [Prof. N. Mouquet](http://www.eec.univ-montp2.fr/people/nicolas-mouquet/)
 * [Dr. Ackerly Lab](http://ib.berkeley.edu/labs/ackerly/)
 * [Dr. Cavender-Bares Lab](http://www.cbs.umn.edu/cavender/index.shtml)
-* [Prof. Peres-Neto](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Home.html)
+* [Prof. Peres-Neto](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Home.html) - Community and Quantitative Ecology
 * [Dr. Steve Kembel](http://kembellab.ca/)
-* [Prof. Enquist](http://eeb37.biosci.arizona.edu/~brian/Department_of_Ecology_and_Evolutionary_Biology/Enquist_Lab.html )
+* [Prof. B. Enquist](https://brianjenquist.wordpress.com/ )
 * [Prof. Felisa Smith Lab](http://biology.unm.edu/fasmith/Members/) - University of New Mexico
-* [Prof. Pierre Legendre](http://www.bio.umontreal.ca/legendre/indexEn.html)
-* [Dr. Helene Morlon](http://www.cmap.polytechnique.fr/~morlon/)
-* [Dr. Vamosi](http://www.ucalgary.ca/~smvamosi/publications.htm)
+* [Prof. Pierre Legendre](http://adn.biol.umontreal.ca/~numericalecology/indexEn.html)
+* [Dr. Helene Morlon](http://www.biologie.ens.fr/phyloeco/index.html)
+* [Dr. Vamosi](http://homepages.ucalgary.ca/~smvamosi/)
 * [Prof. He Fangliang](http://www.ualberta.ca/~fhe/)
 * [Prof. Loreau](http://www.ecoex-moulis.cnrs.fr/spip.php?article47&lang=en)
 * [Prof. Tuomisto](https://www.researchgate.net/profile/Hanna_Tuomisto2 )
 * [Dr. Franck Jabot](https://sites.google.com/site/franckjabot/home)
 * [Prof. Bill Kunin](http://www.fbs.leeds.ac.uk/staff/profile.php?tag=Kunin )
-* [Dr. François MUNOZ](https://scholar.google.com/citations?user=pZTij0cAAAAJ&hl=en ) - Tropical plant comminities
-* [Prof. Davies Lab](http://www.colorado.edu/eeb/EEBprojects/DaviesLab/ )
+* [Dr. François MUNOZ](https://scholar.google.com/citations?user=pZTij0cAAAAJ&hl=en ) - Tropical plant comminities, France
+* [Prof. K. F. Davies Lab](http://www.colorado.edu/eeb/EEBprojects/DaviesLab/ )
 * [Prof. Jonathan M. Chase Lab ](https://sites.google.com/site/betadiversity/my-cv ) - Process Governing species assembly over various scales
 * [Dr. Richard Davies ](https://www.uea.ac.uk/biological-sciences/people/profile/richard-g-davies) -the evolutionary and ecological determinants of biodiversity distribution
-* [Prof. Green Lab](http://biology.uoregon.edu/people/green/index.html)
+* [Prof. J. Green Lab](http://biology.uoregon.edu/people/green/index.html)
 * [Dr. Janne Soininen](http://blogs.helsinki.fi/jhsoinin/ ) 
-* [Prof. Hillebrand lab](http://www.icbm.de/planktologie/33942.html )
 * [Prof. Jacob R. Goheen](http://www.zoology.ubc.ca/%7Egoheen/)
 * [Dr. Simon A. Queenborough ](https://environment.yale.edu/profile/queenborough/)
-* [Dr. N. Mouquet](http://nicolasmouquet.free.fr/)
-* [Dr. Nathan Kraft](http://www.zoology.ubc.ca/~nkraft/)
+* [Dr. Nathan Kraft](https://sites.lifesci.ucla.edu/eeb-kraft/) - UCLA
 
 ## Theoretical Ecology 
 * [Prof. Holyoak](http://www.des.ucdavis.edu/faculty/holyoak/ )
 * [Prof. Hurbert Lab](http://www.bio.unc.edu/Faculty/Hurlbert/lab/ )
 * [Prof. Amy Angert](http://angert.botany.ubc.ca/) - at the interface of ecology and evolutionary biology
 * [Prof. Pedro Peres Neto](http://www.er.uqam.ca/nobel/r3424621/labo/en/site/Pedro.html)
-* [Prof. Cahill J.](http://www.biology.ualberta.ca/cahill_lab/)
+* [Prof. Cahill J.](http://www.biology.ualberta.ca/cahill_lab/) - U. Alberta
 
 ## Functional Ecology
-* [Dr. Moles A. New Zealand](http://www.vuw.ac.nz/staff/angela_moles/ )
-* [Prof. John Wakeley](http://www.oeb.harvard.edu/faculty/wakeley/John/wakeley.htm)
+* [Dr. Moles A. New Zealand](https://research.unsw.edu.au/people/professor-angela-moles )
+* [Prof. John Wakeley](http://www.oeb.harvard.edu/faculty/wakeley/John/wakeley.htm) - Harvard
 
-## Conservation Biology 
+## Conservation Biology * [Prof. R. Primack](http://www.bu.edu/biology/people/profiles/richard-b-primack/) - Boston
 * [Dr. Marco Pautasso ](https://sites.google.com/site/marpauta/home)
 * [Prof. Martin Sykes at Lund](https://www.researchgate.net/profile/Martin_Sykes/publications )
-* [Dr. Lee Hannah](http://www.bren.ucsb.edu/people/Faculty/lee_hannah.htm)
-* [Prof.Resit Akakaya USA](http://life.bio.sunysb.edu/ee/akcakayalab/ )
-* [Prof. Brook](http://www.adelaide.edu.au/directory/barry.brook )
-
-## Population Genetics
+* [Prof.Resit Akakaya USA](http://life.bio.sunysb.edu/ee/akcakayalab/ )
+## Climate Change Biology
+* [Dr. Lee Hannah](http://www.bren.ucsb.edu/people/Faculty/lee_hannah.htm) - Climate Change Biology
+## Population Genetics* [Pär Ingvarsson](http://www.emg.umu.se/om-institutionen/personal/ingvarsson-par)
 * [Dr. Siobhan Cooke](http://duke.academia.edu/SiobhanCooke/) - Evolution of new world's monkey
-* [Prof. Cajsa Lisa Anderson](http://cajsalisa.net/cajsalisa.index.html )
-* [Prof. Bruce Walsh](http://nitro.biosci.arizona.edu/)
-
+* [Prof. Cajsa Lisa Anderson](http://research.cajsalisa.net/#home )
+* [Prof. Bruce Walsh](http://eeb.arizona.edu/people/dr-j-bruce-walsh)* [Prof. Xiao-Ru Wang](http://www.emg.umu.se/om-institutionen/personal/wang-xiao-ru)
+
 ## Invasion Ecology
-* [Prof. Jonathan Levine](http://www.lifesci.ucsb.edu/eemb/faculty/levine/)
+* [Prof. Jonathan Levine](https://www.ethz.ch/content/specialinterest/usys/ibz/plant-ecology/en/people/person-detail.html?persid=180149)
 * [Amphibia Evolution Lab (Belgium)](http://www.amphibia.be/Amphibia/Home.html)
-
-## Phylogenetic Software Developers
-* [Dr. Alexei Drummond](http://compevol.auckland.ac.nz/dr-alexei-drummond/)* [BEAST](http://www.cs.auckland.ac.nz/our_staff/profile.php?id=adru001)
-* [Dr. christoph Heibl](http://www.christophheibl.de/ch-home.html)
-
-## Researchers in China
-* [Prof. Kunfang Cao](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/)* [Prof. Chen Xiaoyong](http://faculty.ecnu.edu.cn/s/119/main.jspy)* [Prof. Wang Xihua](http://faculty.ecnu.edu.cn/s/1267/main.jspy) * [Prof. Zhou Shurong](http://life.fudan.edu.cn/Data/View/1460) - Fundan University
-* [Prof. Mingjian Yu](http://mypage.zju.edu.cn/fishmj)
-* [Prof. Guangze Jin](https://www.researchgate.net/profile/Guangze_Jin2)
-* [Prof. Junhua Hu](http://sourcedb.cib.cas.cn/zw/rck/201407/t20140718_4160408.html)
+## Researchers in China* [Prof. Huang Shuangquan] (http://www.plantsystematics.com/cn/bianwehui/huangsuanq.asp) - Wuhan University
+* [Prof. Kunfang Cao](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/) - Guangxi University* [Prof. Chen Xiaoyong](http://faculty.ecnu.edu.cn/s/119/main.jspy) - Eastern China Normal University* [Prof. Wang Xihua](http://faculty.ecnu.edu.cn/s/1267/main.jspy) - Eastern China Normal University* [Prof. Zhou Shurong](http://life.fudan.edu.cn/Data/View/1460) - Fundan University
+* [Prof. Mingjian Yu](http://mypage.zju.edu.cn/fishmj) - Zhejiang University
+* [Prof. Guangze Jin](https://www.researchgate.net/profile/Guangze_Jin2) - Northeast Forestry University
+* [Prof. Junhua Hu](http://sourcedb.cib.cas.cn/zw/rck/201407/t20140718_4160408.html) - Chengdu Institute of Biology, Chinese Academy of Sciences* [Dr. Huijie Qiao](https://scholar.google.com/citations?user=AtJSLK0AAAAJ&hl=en)
 * [Prof. Keping Ma](http://www.kepingma.com/) -IBCAS
-* [Prof. Xuejun Ge ](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) - SCBG* [Prof. Chen Zhiduan](http://www.lseb.cn/chenzhiduan) -IBCAS* [Prof. Wang Zhiheng](http://www.ues.pku.edu.cn/szdw/personal/TeacherEasy.Asp?id=87) - Peking University* [Dr. Shaopeng Li](https://www.researchgate.net/profile/Shaopeng_Li3)
-* [Dr. Shengbin Chen](http://shengbin.weebly.com)
-* [Dr. Jihong Huang](http://huangjihong.weebly.com/)
+* [Prof. Xuejun Ge ](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) - SCBG* [Prof. Chen Zhiduan](http://www.lseb.cn/chenzhiduan) -IBCAS* [Prof. Wang Zhiheng](http://www.ues.pku.edu.cn/szdw/personal/TeacherEasy.Asp?id=87) - Peking University* [Dr. Shaopeng Li](https://www.researchgate.net/profile/Shaopeng_Li3)  - Georgia Institute of Technology, Atlanta
+* [Dr. Shengbin Chen](http://shengbin.weebly.com) - Nanjing Institute of Environmental Sciences, Ministry of Environmental Protection
+* [Dr. Jihong Huang](http://huangjihong.weebly.com/) - Chinese Academy of Forestry
 * [Dr. Xiaojuan Liu](http://www.cfbiodiv.org/news.asp?id=5257) -IBCAS
 * [Dr. Lingfeng Mao](http://lingfengmao.weebly.com/) - University of Alberta
-* [Dr. Nancai Pei](http://nancaipei.weebly.com/index.html) -DNA Barcoding
-* [Dr. Mi Xiangcheng] (http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS
-# Resources for Data used in Ecology and Evolution
-* [gbif](www.gbif.org/)
+* [Dr. Nancai Pei](http://nancaipei.weebly.com/index.html) - Research Institute of Tropical Forestry, the Chinese Academy of Forestry
+* [Dr. Mi Xiangcheng] (http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS## More Researchers in China* [Editorial Committee of JSE] (http://www.plantsystematics.com/cn/bwh.asp)* [Editorial Committee of Biodiversity Science] (http://www.biodiversity-science.net/CN/column/column12.shtml)* [Editorial Committee of Chinese Journal of Plant Ecology] (http://www.plant-ecology.com/CN/column/column105.shtml)
+# Data Sources in Ecology and Evolution
+* [gbif](http://www.gbif.org/)
 * [Genbank](http://www.ncbi.nlm.nih.gov/genbank/)
 * [The Plantlist](http://www.theplantlist.org/)
 * [Tropicos](http://www.tropicos.org/)
@@ -206,7 +194,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [CTFS](http://www.ctfs.si.edu/) 
 * [CFBIO](http://www.cfbiodiv.org/)
 * [Gentry's Transect Dataset](http://www.mobot.org/MOBOT/Research/gentry/transect.shtml)
-* [Distribution maps of trees of North America](http://esp.cr.usgs.gov/data/little/)
+* [Maps of Trees of North America](http://esp.cr.usgs.gov/data/little/)
 * [TimeTree](http://www.timetree.org/) - The divergence Time of two taxa
 * [TRY](https://www.try-db.org/TryWeb/Data.php) - a global database of plant traits
 
@@ -215,8 +203,6 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Review Course: Markov Chains and Monte Carlo Methods](http://users.aims.ac.za/~ioana/)
 * [Bayesian Methods](http://voteview.com/Bayes_ucsd.htm)
 * [Machine Learning](http://disi.unitn.it/~passerini/teaching/2010-2011/MachineLearning/)
-* [Bayesian Networks and Graphical Models](http://www.dina.dk/phd/s/s6/)
-* [Doing Bayesian Data Analysis](http://www.indiana.edu/~kruschke/RobustBayesianComparison/)
 * [Doing Bayesian Data Analysis](http://www.indiana.edu/\~kruschke/)
 * [Doing Bayesian Data Analysis](http://www.indiana.edu/\~jkkteach/)
 * [Stat 295 Bayesian Inferences](http://bayesrules.net/stat295.html)
