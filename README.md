@@ -1,5 +1,5 @@
-# Awesome Links for Ecology and Evolution
-A curated list of Links to Research Teams, Journals, Software, Learning Resources for Ecology and Evolution Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
+# Links for Ecology and Evolution
+A curated list of Links to Research Teams, Journals, Software, Learning Resources for Ecology and Evolution Inspired by  [awesome-R](https://github.com/qinwf/awesome-R).
 - [Awesome Links for Ecology and Evolution](#awesome-links-for-ecology-and-evolution)
 - [Journals](#journals)
 - [Research Groups/Network](#research-groups/network)
@@ -127,8 +127,8 @@
 * [Prof. Oakley Lab](https://labs.eemb.ucsb.edu/oakley/todd/ )
 * [Dr. Alexei Drummond](http://compevol.auckland.ac.nz/dr-alexei-drummond/)* [BEAST](http://www.cs.auckland.ac.nz/our_staff/profile.php?id=adru001)
 * [Dr. Christoph Heibl](http://www.christophheibl.de/ch-home.html)
-* [Prof. Wayne Maddison Lab] (https://waynemaddisonlab.wordpress.com/)
-* [Dr. Stacy Smith Lab] http://www.colorado.edu/smithlab/people/stacey-d-smith
+* [Prof. Wayne Maddison Lab](https://waynemaddisonlab.wordpress.com/)
+* [Dr. Stacy Smith Lab](http://www.colorado.edu/smithlab/people/stacey-d-smith)
 ## Biodiversity and the determinants
 * [Dr. M. Cadotte](http://www.utsc.utoronto.ca/~mcadotte/index.html )
 * [Dr. Hardy Research Group](http://ebe.ulb.ac.be/ebe/Hardy.html)
@@ -178,21 +178,7 @@
 * [Prof. Martin Sykes at Lund](https://www.researchgate.net/profile/Martin_Sykes/publications )
 * [Prof.Resit Akakaya USA](http://life.bio.sunysb.edu/ee/akcakayalab/ )
 
-
-
-
-
-
-
-
 ## Climate Change Biology
-
-
-
-
-
-
-
 
 * [Dr. Lee Hannah](http://www.bren.ucsb.edu/people/Faculty/lee_hannah.htm) - Climate Change Biology
 ## Population Genetics
@@ -201,13 +187,6 @@
 * [Prof. Cajsa Lisa Anderson](http://research.cajsalisa.net/#home )
 * [Prof. Bruce Walsh](http://eeb.arizona.edu/people/dr-j-bruce-walsh)
 * [Prof. Xiao-Ru Wang](http://www.emg.umu.se/om-institutionen/personal/wang-xiao-ru)
-
-
-
-
-
-
-
 
 ## Invasion Ecology
 * [Prof. Jonathan Levine](https://www.ethz.ch/content/specialinterest/usys/ibz/plant-ecology/en/people/person-detail.html?persid=180149)
