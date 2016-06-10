@@ -52,7 +52,7 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Journal of Ecology](http://www.journalofecology.org/view/0/index.html)
 * [Oecologia](http://link.springer.com/journal/442)
 * [New Phytologist](http://onlinelibrary.wiley.com/doi/10.1111/nph.2011.190.issue-4/issuetoc)
-* [Botanical Journal of the Linnean Society](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339)* [Taxon](http://www.ingentaconnect.com/content/iapt/tax)* [Journal of Systematics and Evolution] (http://www.jse.ac.cn/)* [Biodiversity Science in Chinese] (http://www.biodiversity-science.net/CN/volumn/current.shtml)
+* [Botanical Journal of the Linnean Society](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339)* [Taxon](http://www.ingentaconnect.com/content/iapt/tax)## Botanical or Ecological Journals in China* [Journal of Systematics and Evolution] (http://www.jse.ac.cn/)* [Plant Diversity] (http://journal.kib.ac.cn/EN/column/column79.shtml)* [Biodiversity Science in Chinese] (http://www.biodiversity-science.net/CN/volumn/current.shtml)* [Guihaia, in Chinese](http://www.guihaia-journal.com/ch/index.aspx)* [Plant Science Journal, in Chinese](http://www.whzwxyj.cn/CN/volumn/current.shtml)* [Bulletin of Botanical Research, in Chinese] (http://bbr.nefu.edu.cn/CN/volumn/current.shtml)* [Acta Botanica Boreali-Occidentalia Sinica, in Chinese] (http://www.xbzwxb.com/ch/index.aspx)* [Bulletin of Botany] (http://www.chinbullbotany.com/CN/volumn/home.shtml)* [Acta Ecologica Sinica](http://www.ecologica.cn/stxb/ch/index.aspx)
 # Research Network
 * [Phylodiversity network](http://www.phylodiversity.net/)
 * [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
@@ -182,8 +182,8 @@ A curated list of Links to Research Teams, Journals, Software, Learning Resource
 * [Dr. Xiaojuan Liu](http://www.cfbiodiv.org/news.asp?id=5257) -IBCAS
 * [Dr. Lingfeng Mao](http://lingfengmao.weebly.com/) - University of Alberta
 * [Dr. Nancai Pei](http://nancaipei.weebly.com/index.html) - Research Institute of Tropical Forestry, the Chinese Academy of Forestry
-* [Dr. Mi Xiangcheng] (http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS## More Researchers in China* [Editorial Committee of JSE] (http://www.plantsystematics.com/cn/bwh.asp)* [Editorial Committee of Biodiversity Science] (http://www.biodiversity-science.net/CN/column/column12.shtml)* [Editorial Committee of Chinese Journal of Plant Ecology] (http://www.plant-ecology.com/CN/column/column105.shtml)
-# Data Sources in Ecology and Evolution
+* [Dr. Mi Xiangcheng] (http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS## More Researchers in China* [Editorial Committee of JSE] (http://www.plantsystematics.com/cn/bwh.asp)* [Editorial Committee of Biodiversity Science] (http://www.biodiversity-science.net/CN/column/column12.shtml)* [Editorial Committee of Chinese Journal of Plant Ecology] (http://www.plant-ecology.com/CN/column/column105.shtml)
+# Data Sources for Ecology and Evolution
 * [gbif](http://www.gbif.org/)
 * [Genbank](http://www.ncbi.nlm.nih.gov/genbank/)
 * [The Plantlist](http://www.theplantlist.org/)
