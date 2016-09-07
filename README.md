@@ -306,6 +306,8 @@
 * [R Examples](http://www.uni-kiel.de/psychologie/rexrepos/index.html)
 * [R Resources at NCEAS](http://www.nceas.ucsb.edu/scicomp/software/r)
 * [R-phylo Wiki](http://www.r-phylo.org/wiki/Main_Page)
+
+* [Comparative methods in R - Ilhabela](http://lukejharmon.github.io/ilhabela/)
 * [R Hackathon](https://www.researchgate.net/publication/36789527_Comparative_methods_in_R_hackathon)
 * [Analysis of Community data using R](http://ecology.msu.montana.edu/labdsv/R/labs/)
 * [F. Farrell's R resources](http://biostat.mc.vanderbilt.edu/wiki/Main/RS)
