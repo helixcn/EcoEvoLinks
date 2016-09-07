@@ -295,8 +295,15 @@
 # Software
 ## R resources
 * [R project](http://cran.r-project.org/)
-* [R Free Documents](https://cran.r-project.org/other-docs.html)
+
+* [Bioconductor](https://www.bioconductor.org/)
+
+* [R Free Documents](https://cran.r-project.org/other-docs.html)
 * [Quick R](http://www.statmethods.net/)
+
+* [The R Graphical Manual](http://www.imsbio.co.jp/RGM/R_image_list?navi_idx=0)
+
+* [R Examples](http://www.uni-kiel.de/psychologie/rexrepos/index.html)
 * [R Resources at NCEAS](http://www.nceas.ucsb.edu/scicomp/software/r)
 * [R-phylo Wiki](http://www.r-phylo.org/wiki/Main_Page)
 * [R Hackathon](https://www.researchgate.net/publication/36789527_Comparative_methods_in_R_hackathon)
@@ -309,6 +316,14 @@
 * [Create Maps with R geographical Classes ](http://www.nceas.ucsb.edu/scicomp/usecases/CreateMapsWithRGraphics)
 * [Applied Spatial Statistics in R](http://www.people.fas.harvard.edu/~zhukov/spatial.html)
 * [r-popgen-hackathon](https://github.com/NESCent/r-popgen-hackathon)
+
+* [Analysis of Discret Data](https://onlinecourses.science.psu.edu/stat504/)
+
+* [Data Mining by Dr, Dr. Michael Hahsler](http://michael.hahsler.net/SMU/EMIS7332/)
+
+* [R Studio](https://www.rstudio.com/)
+
+* [R Markdown](http://rmarkdown.rstudio.com/)
 ## LaTeX
 * [TeXLive](https://www.tug.org/texlive/)
 * [MikTeX](http://miktex.org/)
