@@ -228,7 +228,7 @@
 * [CFBIO](http://www.cfbiodiv.org/)
 * [Gentry's Transect Dataset](http://www.mobot.org/MOBOT/Research/gentry/transect.shtml)
 * [Maps of Trees of North America](http://esp.cr.usgs.gov/data/little/)
-* [TimeTree](http://www.timetree.org/) - The divergence Time of two taxa
+* [TimeTree](http://www.timetree.org/) - The divergence Time between two taxa
 * [TRY](https://www.try-db.org/TryWeb/Data.php) - a global database of plant traits
 # Online Flora
 * [Flora of China](http://www.efloras.org/flora_page.aspx?flora_id=2 )
@@ -344,6 +344,8 @@
 * [MEGA](http://www.megasoftware.net/)
 * [r8s](http://blog.sciencenet.cn/blog-255662-305898.html ) - not available at Mike's website (http://loco.biosci.arizona.edu/r8s/)
 * [PATHd8](http://www2.math.su.se/PATHd8/)
+
+* [TimeTree](http://www.timetree.org/) - The divergence Time between two taxa, widely used in molecular dating.
 * [PhyloBayes](http://bioinformatics.oxfordjournals.org/content/25/17/2286.full)
 * [multidivtime](http://statgen.ncsu.edu/thorne/multidivtime.html)
 * [Mesquite](http://mesquiteproject.org/Mesquite_Folder/docs/mesquite/manual.html)
