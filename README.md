@@ -333,6 +333,7 @@
 * [Latex Course in Chinese](http://math.ecnu.edu.cn/~latex/)
 * [An Excellent Equation Editor](http://equalx.sourceforge.net/)
 ## Software for Phylogenetic Comparative Methods
+* [Seqtrace](https://code.google.com/archive/p/seqtrace/downloads) Extracting DNA sequences from ab1 files.
 * [Tree Thinkers](http://treethinkers.org/)
 * [Joe Felsenstein's comprehensive list for Phylogenetic software](http://evolution.genetics.washington.edu/phylip/software.html)
 * [Software by Agapow](http://www.agapow.net/software)
