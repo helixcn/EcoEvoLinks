@@ -57,20 +57,20 @@
 * [Botanical Journal of the Linnean Society](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339)
 * [Taxon](http://www.ingentaconnect.com/content/iapt/tax)
 ## Botanical or Ecological Journals in China
-* [Journal of Systematics and Evolution] (http://www.jse.ac.cn/)
-* [Plant Diversity] (http://journal.kib.ac.cn/EN/column/column79.shtml)
-* [Biodiversity Science in Chinese] (http://www.biodiversity-science.net/CN/volumn/current.shtml)
+* [Journal of Systematics and Evolution](http://www.jse.ac.cn/)
+* [Plant Diversity](http://journal.kib.ac.cn/EN/column/column79.shtml)
+* [Biodiversity Science in Chinese](http://www.biodiversity-science.net/CN/volumn/current.shtml)
 * [Guihaia, in Chinese](http://www.guihaia-journal.com/ch/index.aspx)
 * [Plant Science Journal, in Chinese](http://www.whzwxyj.cn/CN/volumn/current.shtml)
-* [Bulletin of Botanical Research, in Chinese] (http://bbr.nefu.edu.cn/CN/volumn/current.shtml)
-* [Acta Botanica Boreali-Occidentalia Sinica, in Chinese] (http://www.xbzwxb.com/ch/index.aspx)
-* [Bulletin of Botany] (http://www.chinbullbotany.com/CN/volumn/home.shtml)
+* [Bulletin of Botanical Research, in Chinese](http://bbr.nefu.edu.cn/CN/volumn/current.shtml)
+* [Acta Botanica Boreali-Occidentalia Sinica, in Chinese](http://www.xbzwxb.com/ch/index.aspx)
+* [Bulletin of Botany](http://www.chinbullbotany.com/CN/volumn/home.shtml)
 * [Acta Ecologica Sinica](http://www.ecologica.cn/stxb/ch/index.aspx)
 # Research Network
 * [Phylodiversity network](http://www.phylodiversity.net/)
 * [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
 ## Macroecology and Biogeography
-* [Prof. Jetz W. ] (http://www.yale.edu/jetz/) - Yale University, USA
+* [Prof. Jetz W. ](http://www.yale.edu/jetz/) - Yale University, USA
 * [Prof. Thuiller Lab](http://www.will.chez-alice.fr/) -Chez-Alice University, France
 * [Prof. Alexandre F. Diniz-Filho](https://scholar.google.com/citations?user=scYHGuQAAAAJ&hl=en) - Brazil
 * [Dr. Lauren. Buckley](http://faculty.washington.edu/lbuckley/) - The University of Washintong
@@ -192,7 +192,7 @@
 * [Prof. Jonathan Levine](https://www.ethz.ch/content/specialinterest/usys/ibz/plant-ecology/en/people/person-detail.html?persid=180149)
 * [Amphibia Evolution Lab (Belgium)](http://www.amphibia.be/Amphibia/Home.html)
 ## Researchers in China
-* [Prof. Huang Shuangquan] (http://www.plantsystematics.com/cn/bianwehui/huangsuanq.asp) - Wuhan University
+* [Prof. Huang Shuangquan](http://www.plantsystematics.com/cn/bianwehui/huangsuanq.asp) - Wuhan University
 * [Prof. Kunfang Cao](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/) - Guangxi University
 * [Prof. Chen Xiaoyong](http://faculty.ecnu.edu.cn/s/119/main.jspy) - Eastern China Normal University
 * [Prof. Wang Xihua](http://faculty.ecnu.edu.cn/s/1267/main.jspy) - Eastern China Normal University
@@ -213,11 +213,11 @@
 * [Dr. Jian Zhang](https://www.researchgate.net/profile/Jian_Zhang78) - East China Normal University
 * [Dr. Gang Feng](https://www.researchgate.net/profile/Gang_Feng5) - Inner Mongolia University
 * [Dr. Nancai Pei](http://nancaipei.weebly.com/index.html) - Research Institute of Tropical Forestry, the Chinese Academy of Forestry
-* [Dr. Mi Xiangcheng] (http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS
+* [Dr. Mi Xiangcheng](http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS
 ## More Researchers in China
-* [Editorial Committee of JSE] (http://www.plantsystematics.com/cn/bwh.asp)
-* [Editorial Committee of Biodiversity Science] (http://www.biodiversity-science.net/CN/column/column12.shtml)
-* [Editorial Committee of Chinese Journal of Plant Ecology] (http://www.plant-ecology.com/CN/column/column105.shtml)
+* [Editorial Committee of JSE](http://www.plantsystematics.com/cn/bwh.asp)
+* [Editorial Committee of Biodiversity Science](http://www.biodiversity-science.net/CN/column/column12.shtml)
+* [Editorial Committee of Chinese Journal of Plant Ecology](http://www.plant-ecology.com/CN/column/column105.shtml)
 # Data Sources for Ecology and Evolution
 * [gbif](http://www.gbif.org/)
 * [Genbank](http://www.ncbi.nlm.nih.gov/genbank/)
