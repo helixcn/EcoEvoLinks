@@ -2,7 +2,7 @@
 
 Welcome to the curated list for Phylogenetic Comparative Methods.
 
-#  Labs and Research networksResources
+#  Research Teams
 
 * [Phylodiversity network](http://phylodiversity.net/)
 
@@ -286,7 +286,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Trends in Ecology and Evolution](https://www.journals.elsevier.com/trends-in-ecology-and-evolution/)
 
-# Software for Phylogenetics Evolution and Conservation
+# Software
 
 * [Joe Felsenstein's comprehensive list for Phylogenetic software](http://evolution.genetics.washington.edu/phylip/software.html)
 
@@ -366,7 +366,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [SDMtoolbox](http://sdmtoolbox.org/) A Python Library for Species Distribution Modelling
 
-# Resources for statistics in R
+# Resources for R
 
 * [R project](https://cran.r-project.org/)
 
@@ -406,7 +406,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Data Mining by Dr, Michael Hahsler](http://michael.hahsler.net/SMU/EMIS7332/)
 
-# Online Courses for Ecology, Statistical Analysis and Phylogenetic Comparative Methods
+# Online Courses
 
 * [Review Course: Markov Chains and Monte Carlo Methods](http://users.aims.ac.za/~ioana/)
 
@@ -454,7 +454,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Coalescent Theory and Applications](http://web.eve.ucdavis.edu/pbg298/)
 
-# Data Sources
+# Data
 
 * [gbif](https://www.gbif.org/)
 
@@ -483,4 +483,5 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 * [Global Soil at 1km resolution]( ftp://ftp.soilgrids.org/ )
 
 # Contact
-Please contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake. 
+Please contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake.
+
