@@ -1,6 +1,6 @@
-# Links for Ecology and Evolution, especially Phylogenetic Comparative Methods
+# Links for Phylogenetic Comparative Methods used in Ecology and Evolution
 
-Welcome to the curated list for the Links to Research Teams, Journals, Software, Learning Resources for Ecology and Evolution, with special regards to Phylogenetic Comparative Methods. 
+Welcome to the curated list for Phylogenetic Comparative Methods.
 
 #  Labs and Research networks
 
@@ -8,7 +8,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
 
-* [Ackerly D.](http://www.ackerlylab.org/)
+* [Ackerly D.](http://www.ackerlylab.org/) 
 
 * [Angert A.](http://angert.botany.ubc.ca/) - at the interface of ecology and evolutionary biology
 
@@ -16,23 +16,23 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Beaumount L. ](http://www.ljbeaumont.com/index.html ) - Department of Biological Sciences, Macquarie University, Australia, Niche Modeling
 
-* [Bokma F.](http://www.emg.umu.se/om-institutionen/personal/bokma-folmer)
+* [Bokma F.](http://www.emg.umu.se/om-institutionen/personal/bokma-folmer) Umea, Sweden
 
 * [Bolnick D.](https://bolnicklab.wordpress.com/ ) - BOLNICK LAB AT THE UNIVERSITY OF TEXAS AT AUSTINEco-Evo-Immuno Dynamics
 
 * [Brown J.](http://biology.unm.edu/jhbrown/index.shtml) - Interdisciplinary Biology, Community Ecology, Biogeography, Allometry
 
-* [Buckley L.](http://faculty.washington.edu/lbuckley/) - The University of Washintong
+* [Buckley L.](http://faculty.washington.edu/lbuckley/) - The University of Washington
 
-* [Butler M.](http://www2.hawaii.edu/~mbutler/ )
+* [Butler M.](http://www2.hawaii.edu/~mbutler/ ) University of Hawaii
 
-* [Cadotte M.](http://www.utsc.utoronto.ca/~mcadotte/index.html )
+* [Cadotte M.](http://www.utsc.utoronto.ca/~mcadotte/index.html ) University of Toronto
 
-* [Cahill J.](https://grad.biology.ualberta.ca/labs/cahill/) - U. Alberta
+* [Cahill J.](https://grad.biology.ualberta.ca/labs/cahill/) - University of Alberta
 
 * [Cao Kunfang 曹坤芳](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/) - Guangxi University
 
-* [Cavender-Bares J.](https://cbs.umn.edu/cavender-bares-lab/home)
+* [Cavender-Bares J.](https://cbs.umn.edu/cavender-bares-lab/home) University of Minnesota
 
 * [Chase J. M.](https://sites.google.com/site/betadiversity/my-cv ) - Process Governing species assembly over various scales
 
@@ -40,17 +40,17 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Chen Shengbin 陈圣宾](http://shengbin.weebly.com) - Nanjing Institute of Environmental Sciences, Ministry of Environmental Protection
 
-* [Comita L.](http://lizacomita.weebly.com/)
+* [Comita L.](http://lizacomita.weebly.com/) 
 
 * [Corlett R.](http://sourcedb.cas.cn/sourcedb_xtbg_cas/yw/rc/fas/201208/t20120814_3626801.html) - Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 
-* [Cornwell W.](http://willcornwell.org/ )
+* [Cornwell W.](http://willcornwell.org/)
 
 * [Crisp M.](http://biology.anu.edu.au/research/labs/crisp-lab-plant-systematics-and-biogeography )
 
 * [Davies J.](http://biology.mcgill.ca/faculty/davies/index.html)
 
-* [Davies K. F.](http://www.colorado.edu/eeb/EEBprojects/DaviesLab/ )
+* [Davies K. F.](http://www.colorado.edu/eeb/EEBprojects/DaviesLab/)
 
 * [Devictor V.](http://vincent.devictor.free.fr/)
 
@@ -70,7 +70,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Gaston K.](http://kevingaston.com/)  - Conservation at University of Exeter
 
-* [Ge Xuejun 葛学军](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) - SCBG
+* [Ge Xuejun 葛学军](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) South China Botanical Garden
 
 * [Gittleman J.](http://gittleman.ecology.uga.edu/) - INSTITUTE OF ECOLOGY, ECOLOGY BUILDING, UNIVERSITY OF GEORGIA, ATHENS, GA 30602-2202
 
@@ -78,7 +78,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Graham C.](http://catherinegraham.weebly.com/) - Stony Brook University
 
-* [Green J.](http://pages.uoregon.edu/green/)
+* [Green J.](http://pages.uoregon.edu/green/) 
 
 * [Guisan A.](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-antoine-guisan.html) - Univerisite de Lausanne
 
@@ -86,7 +86,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Hawkins B.](http://www.faculty.uci.edu/profile.cfm?faculty_id=4562) - University of California, Irvine
 
-* [He Fangliang](https://sites.ualberta.ca/~fhe/)
+* [He Fangliang](https://sites.ualberta.ca/~fhe/) Univerisity of Alberta, Canada
 
 * [Heard S.](http://www2.unb.ca/~sheard/ ) - Understanding ecological controls on the evolution of biodiversity
 
@@ -122,15 +122,15 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Legendre P.](http://adn.biol.umontreal.ca/~numericalecology/indexEn.html)
 
-* [Li Rong 李嵘](http://sourcedb.kib.cas.cn/zw/zjrc/fyjy/201508/t20150831_4418645.html)
+* [Li Rong 李嵘](http://sourcedb.kib.cas.cn/zw/zjrc/fyjy/201508/t20150831_4418645.html) Kunming Institute of Botany, Chinese Academy of Sciences
 
-* [Lin Luxiang 林露湘](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201303/t20130321_3802756.html)
+* [Lin Luxiang 林露湘](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201303/t20130321_3802756.html) Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 
-* [Liu Xiaojuan 刘晓娟](http://www.cfbiodiv.org/news.asp?id=5257) -IBCAS
+* [Liu Xiaojuan 刘晓娟](http://www.cfbiodiv.org/news.asp?id=5257) Institute of Botany, Chinese Academy of Sciences
 
 * [Loreau M.](http://www.ecoex-moulis.cnrs.fr/spip.php?article47&lang=en)
 
-* [Losos J.](https://lososlab.oeb.harvard.edu/ ) - Evolution of Lizards, at Havard University
+* [Losos J.](https://lososlab.oeb.harvard.edu/ ) - Evolution of Lizards, Havard University
 
 * [Lovette I.](http://www.eeb.cornell.edu/lovette/ )
 
@@ -158,15 +158,13 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [O'Meara B.](http://brianomeara.info/)
 
-* [P. Agapow ](http://www.agapow.net )
-
 * [Pavoine S.](https://www.researchgate.net/profile/Sandrine_Pavoine )
 
 * [Pei Nancai 裴男才](http://nancaipei.weebly.com/index.html) - Research Institute of Tropical Forestry, the Chinese Academy of Forestry
 
 * [Peres-Neto P.](http://www.communityecology.uqam.ca/pedro-peres-neto-2/) - Community and Quantitative Ecology
 
-* [Primack R.](http://www.bu.edu/biology/people/profiles/richard-b-primack/) - Boston
+* [Primack R.](http://www.bu.edu/biology/people/profiles/richard-b-primack/) - Boston University
 
 * [Purvis A.](http://www.imperial.ac.uk/people/a.purvis ) - Natural History Museum, London, UK
 
@@ -314,9 +312,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [MrBayes](http://mrbayes.sourceforge.net/)
 
-* [PAUP
-
-*](http://people.sc.fsu.edu/~dswofford/paup_test/)
+* [PAUP*](http://people.sc.fsu.edu/~dswofford/paup_test/)
 
 * [BEAST, FigTree, PhyloGen and Tracer](http://tree.bio.ed.ac.uk/software/)
 
@@ -338,7 +334,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [APE](http://ape-package.ird.fr/)
 
-* [diversitree] https://cran.r-project.org/web/packages/diversitree/index.html
+* [diversitree] (https://cran.r-project.org/web/packages/diversitree/index.html)
 
 * [RASP](http://mnh.scu.edu.cn/soft/blog/RASP/index.html) Reconstruction of Ancestral Area
 
@@ -367,6 +363,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 * [BIOMOD](http://www.will.chez-alice.fr/Software.html)
 
 * [SDMtoolbox](http://sdmtoolbox.org/)
+
 # Resources for statistics in R
 
 * [R project](https://cran.r-project.org/)
@@ -479,7 +476,7 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [TimeTree](http://www.timetree.org/) - The divergence Time between two taxa
 
-* [TRY](https://www.try-db.org/TryWeb/Data.php) - a global database of plant traits
+* [TRY](https://www.try-db.org/TryWeb/Data.php) - A global database of plant traits
 
 * [CHELSA, Climatologies at high resolution for the earth’s land surface areas](http://chelsa-climate.org/)
 
@@ -487,4 +484,5 @@ Welcome to the curated list for the Links to Research Teams, Journals, Software,
 
 * [Global Soil at 1km resolution](ftp//ftp.soilgrids.org/)
 
-# ContactPlease contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake. 
+# Contact
+Please contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake. 
