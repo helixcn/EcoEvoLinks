@@ -1,8 +1,8 @@
-# Links for Phylogenetic Comparative Methods used in Ecology and Evolution
+# Resources for Ecology, Evolution and Phylogenetic Comparative Methods
 
 Welcome to the curated list for Phylogenetic Comparative Methods.
 
-#  Labs and Research networks
+#  Labs and Research networksResources
 
 * [Phylodiversity network](http://phylodiversity.net/)
 
@@ -14,7 +14,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Araújo M.](http://www.maraujolab.com/) - PREDICTING THE EFFECTS OF ENVIRONMENTAL CHANGE ON BIODIVERSITY
 
-* [Beaumount L. ](http://www.ljbeaumont.com/index.html ) - Department of Biological Sciences, Macquarie University, Australia, Niche Modeling
+* [Beaumount L.](http://www.ljbeaumont.com/index.html ) - Department of Biological Sciences, Macquarie University, Australia, Niche Modeling
 
 * [Bokma F.](http://www.emg.umu.se/om-institutionen/personal/bokma-folmer) Umea, Sweden
 
@@ -30,7 +30,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Cahill J.](https://grad.biology.ualberta.ca/labs/cahill/) - University of Alberta
 
-* [Cao Kunfang 曹坤芳](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/) - Guangxi University
+* [Cao Kunfang](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/) - Guangxi University
 
 * [Cavender-Bares J.](https://cbs.umn.edu/cavender-bares-lab/home) University of Minnesota
 
@@ -38,7 +38,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Chave J.](http://chave.ups-tlse.fr/ )
 
-* [Chen Shengbin 陈圣宾](http://shengbin.weebly.com) - Nanjing Institute of Environmental Sciences, Ministry of Environmental Protection
+* [Chen Shengbin](http://shengbin.weebly.com) - Nanjing Institute of Environmental Sciences, Ministry of Environmental Protection
 
 * [Comita L.](http://lizacomita.weebly.com/) 
 
@@ -62,7 +62,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Felsenstein J.](http://evolution.gs.washington.edu/felsenstein.html) - University of Washington
 
-* [Feng Gang 冯刚](http://see.imu.edu.cn/info/1084/1911.htm) - Inner Mongolia University
+* [Feng Gang](http://see.imu.edu.cn/info/1084/1911.htm) - Inner Mongolia University
 
 * [Freckleton R.](https://www.sheffield.ac.uk/aps/staff-and-students/acadstaff/freckleton ) - Plant population ecology, modelling plant populations, modelling weed populations. Evolutionary ecology, phylogenetic comparative methodology and its application to ecological problems. 
 
@@ -70,7 +70,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Gaston K.](http://kevingaston.com/)  - Conservation at University of Exeter
 
-* [Ge Xuejun 葛学军](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) South China Botanical Garden
+* [Ge Xuejun](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) South China Botanical Garden
 
 * [Gittleman J.](http://gittleman.ecology.uga.edu/) - INSTITUTE OF ECOLOGY, ECOLOGY BUILDING, UNIVERSITY OF GEORGIA, ATHENS, GA 30602-2202
 
@@ -94,9 +94,9 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Holyoak M.](http://www.des.ucdavis.edu/faculty/holyoak/ )
 
-* [Hu Junhua 胡军华](http://sourcedb.cib.cas.cn/zw/rck/201407/t20140718_4160408.html) - Chengdu Institute of Biology, Chinese Academy of Sciences
+* [Hu Junhua](http://sourcedb.cib.cas.cn/zw/rck/201407/t20140718_4160408.html) - Chengdu Institute of Biology, Chinese Academy of Sciences
 
-* [Huang Jihong 黄继红](http://huangjihong.weebly.com/) - Chinese Academy of Forestry
+* [Huang Jihong](http://huangjihong.weebly.com/) - Chinese Academy of Forestry
 
 * [Hunt G.](http://paleobiology.si.edu/staff/individuals/hunt.cfm)
 
@@ -122,11 +122,11 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Legendre P.](http://adn.biol.umontreal.ca/~numericalecology/indexEn.html)
 
-* [Li Rong 李嵘](http://sourcedb.kib.cas.cn/zw/zjrc/fyjy/201508/t20150831_4418645.html) Kunming Institute of Botany, Chinese Academy of Sciences
+* [Li Rong](http://sourcedb.kib.cas.cn/zw/zjrc/fyjy/201508/t20150831_4418645.html) Kunming Institute of Botany, Chinese Academy of Sciences
 
-* [Lin Luxiang 林露湘](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201303/t20130321_3802756.html) Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
+* [Lin Luxiang](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201303/t20130321_3802756.html) Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 
-* [Liu Xiaojuan 刘晓娟](http://www.cfbiodiv.org/news.asp?id=5257) Institute of Botany, Chinese Academy of Sciences
+* [Liu Xiaojuan](http://www.cfbiodiv.org/news.asp?id=5257) Institute of Botany, Chinese Academy of Sciences
 
 * [Loreau M.](http://www.ecoex-moulis.cnrs.fr/spip.php?article47&lang=en)
 
@@ -134,17 +134,17 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Lovette I.](http://www.eeb.cornell.edu/lovette/ )
 
-* [Ma Keping 马克平](http://www.biodiv.ibcas.ac.cn/staff/makeping.html) -IBCAS
+* [Ma Keping](http://www.biodiv.ibcas.ac.cn/staff/makeping.html) -IBCAS
 
 * [Maddison W.](https://waynemaddisonlab.wordpress.com/)
 
-* [Mao Lingfeng 毛岭峰](http://lingfengmao.weebly.com/) - University of Alberta
+* [Mao Lingfeng](http://lingfengmao.weebly.com/) - University of Alberta
 
 * [McPeek M.](http://www.enallagma.com/index.php) - how communities of organisms are assembled and structured across the landscape
 
 * [Meynard C.](https://scholar.google.co.za/citations?user=3kGUkpgAAAAJ )
 
-* [Mi Xiangcheng 米湘成](http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS
+* [Mi Xiangcheng](http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS
 
 * [Moles A.](https://research.unsw.edu.au/people/professor-angela-moles )
 
@@ -160,7 +160,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Pavoine S.](https://www.researchgate.net/profile/Sandrine_Pavoine )
 
-* [Pei Nancai 裴男才](http://nancaipei.weebly.com/index.html) - Research Institute of Tropical Forestry, the Chinese Academy of Forestry
+* [Pei Nancai ](http://nancaipei.weebly.com/index.html) - Research Institute of Tropical Forestry, the Chinese Academy of Forestry
 
 * [Peres-Neto P.](http://www.communityecology.uqam.ca/pedro-peres-neto-2/) - Community and Quantitative Ecology
 
@@ -170,25 +170,27 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Pyšek P.](http://www.ibot.cas.cz/personal/pysek/ ) - Department of invasion ecology Botanický ústav Akademie věd ČR/Institute of Botany, Academy of Sciences of the Czech Republic 
 
-* [Qiao Huijie 乔慧捷](https://scholar.google.com/citations?user=AtJSLK0AAAAJ&hl=en)
+* [Qian Hong](https://www.researchgate.net/profile/Hong_Qian3) - Illinois State Museum, USA
+
+* [Qiao Huijie](https://scholar.google.com/citations?user=AtJSLK0AAAAJ&hl=en)
 
 * [Queenborough S. A.](https://environment.yale.edu/profile/queenborough/)
 
-* [Rabosky D.](http://www-personal.umich.edu/~drabosky/Home.html )
+* [Rabosky D.](http://www-personal.umich.edu/~drabosky/Home.html ) University of Michigan
 
 * [Rahbek C.](http://macroecology.ku.dk/) - Univerisity of Copenhagen, Denmark 
 
-* [Schluter D.](https://www.zoology.ubc.ca/~schluter/wordpress/) - UBC
+* [Schluter D.](https://www.zoology.ubc.ca/~schluter/wordpress/) - University of British Columbia
 
 * [Smith Stephan](http://blackrim.org/)
 
 * [Smith Stacy](http://www.colorado.edu/smithlab/people/stacey-d-smith)
 
-* [Soininen J. ](http://blogs.helsinki.fi/jhsoinin/ ) 
+* [Soininen J. ](http://blogs.helsinki.fi/jhsoinin/ )  University of Helsinki
 
-* [Svenning J.](http://pure.au.dk/portal/en/svenning@biology.au.dk ) -The Arhus University
+* [Svenning J.](http://pure.au.dk/portal/en/svenning@biology.au.dk ) -The Arhus University, Denmark
 
-* [Swenson N.](http://www.swensonlab.com/)
+* [Swenson N.](http://www.swensonlab.com/) University of Maryland
 
 * [Sykes M.](https://www.researchgate.net/profile/Martin_Sykes/publications )
 
@@ -196,15 +198,15 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Tuomisto H.](https://scholar.google.co.uk/citations?user=2sjc1BEAAAAJ&hl=en )
 
-* [Vamosi S.](http://people.ucalgary.ca/~smvamosi/)
+* [Vamosi S.](http://people.ucalgary.ca/~smvamosi/) University of Calgary
 
 * [Vellend M.](http://mvellend.recherche.usherbrooke.ca/)
 
 * [Wainwright P.](http://fishlab.ucdavis.edu/)
 
-* [Wang Zhiheng 王志恒](https://scholar.google.com/citations?user=aU3Ag4MAAAAJ) - Peking University
+* [Wang Zhiheng](https://scholar.google.com/citations?user=aU3Ag4MAAAAJ) - Peking University
 
-* [Webb C.](http://camwebb.info/)
+* [Webb C.](http://camwebb.info/) University of Alaska
 
 * [Weir J.](http://www.utsc.utoronto.ca/~jweir/) - University of Toronto
 
@@ -212,23 +214,14 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Wiens J.](http://www.wienslab.com/Home.html ) - Evolution of adaptation of world's amphibians
 
-* [Willig M.](http://hydrodictyon.eeb.uconn.edu/people/willig/index.htm)
+* [Willig M.](http://hydrodictyon.eeb.uconn.edu/people/willig/index.htm) University of Connecticut
 
 * [Wright I.](https://wrightlab.wordpress.com/)
 
-* [Yang jie 杨洁](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201611/t20161128_4707436.html)
+* [Yang jie](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201611/t20161128_4707436.html) Xishuangbanna Tropical Botanic Garden, Chinese Academy of Sciences
 
-* [Yu Mingjian 于明坚](http://mypage.zju.edu.cn/fishmj) - Zhejiang University
+* [Zhang Jian](https://www.researchgate.net/profile/Jian_Zhang78) - East China Normal University
 
-* [Zhang Jian 张健](https://www.researchgate.net/profile/Jian_Zhang78) - East China Normal University
-
-* [Zhou Shurong 周淑荣](http://life.fudan.edu.cn/Data/View/1460) - Fundan University
-
-* [Editorial Committee of JSE](http://www.plantsystematics.com/cn/bwh.asp)
-
-* [Editorial Committee of Biodiversity Science](http://www.biodiversity-science.net/CN/column/column12.shtml)
-
-* [Editorial Committee of Chinese Journal of Plant Ecology](http://www.plant-ecology.com/CN/column/column105.shtml)
 # Journals
 
 * [American Journal of Botany](http://www.amjbot.org/)
@@ -255,7 +248,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Global Ecology and Biogeography](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291466-8238)
 
-* [Guihaia, in Chinese](http://www.guihaia-journal.com/ch/index.aspx)
+* [Guihaia](http://www.guihaia-journal.com/ch/index.aspx)
 
 * [Journal of Biogeography](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291365-2699)
 
@@ -292,6 +285,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 * [The American Naturalist](http://www.journals.uchicago.edu/toc/an/current)
 
 * [Trends in Ecology and Evolution](https://www.journals.elsevier.com/trends-in-ecology-and-evolution/)
+
 # Software for Phylogenetics Evolution and Conservation
 
 * [Joe Felsenstein's comprehensive list for Phylogenetic software](http://evolution.genetics.washington.edu/phylip/software.html)
@@ -300,15 +294,23 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Seqtrace](https://code.google.com/archive/p/seqtrace/downloads) Extracting DNA sequences from ab1 files.
 
-* [Rentrez](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html)
+* [Rentrez R package](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) Downloading Nucleotide Sequences from Genbank
 
-* [Geneious](https://www.geneious.com/)
+* [Geneious](https://www.geneious.com/) An integrated system for phylogenetic analysis
 
 * [CLUSTAL](http://www.clustal.org/) Alignment 
 
 * [MUSCLE](http://www.ebi.ac.uk/Tools/msa/muscle/)
 
-* [RAxML](https://sco.h-its.org/exelixis/software.html)
+* [PartitionFinder](http://www.robertlanfear.com/partitionfinder/)
+
+* [ModelFinder](http://www.iqtree.org/ModelFinder/)
+
+* [jModelTest](http://evomics.org/learning/phylogenetics/jmodeltest/)
+
+* [RAxML](https://sco.h-its.org/exelixis/software.html) Builing phylogenies
+
+* [FastTree](http://www.microbesonline.org/fasttree/) Approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences for very large dataset.
 
 * [MrBayes](http://mrbayes.sourceforge.net/)
 
@@ -318,11 +320,11 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [MEGA](http://www.megasoftware.net/)
 
-* [r8s](https://sourceforge.net/projects/r8s/ )
+* [r8s](https://sourceforge.net/projects/r8s/ ) Dating using Penalized likelihood
 
-* [PATHd8](http://www2.math.su.se/PATHd8/)
+* [PATHd8](http://www2.math.su.se/PATHd8/) Dating
 
-* [TreePL](https://github.com/blackrim/treePL) Time Calibration for Large Trees
+* [TreePL](https://github.com/blackrim/treePL) Dating for Large Trees
 
 * [multidivtime](http://statgen.ncsu.edu/thorne/multidivtime.html)
 
@@ -332,9 +334,9 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Phylocom](http://phylodiversity.net/phylocom/)
 
-* [APE](http://ape-package.ird.fr/)
+* [APE](http://ape-package.ird.fr/) Analysis of Phylogenetics and Evolution
 
-* [diversitree] (https://cran.r-project.org/web/packages/diversitree/index.html)
+* [diversitree](https://cran.r-project.org/web/packages/diversitree/index.html)
 
 * [RASP](http://mnh.scu.edu.cn/soft/blog/RASP/index.html) Reconstruction of Ancestral Area
 
@@ -342,13 +344,11 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [BioGeoBEARS](http://phylo.wikidot.com/biogeobears) Reconstruction of Ancestral Area
 
-* [BAMM](http://bamm-project.org/) BAMM (Bayesian Analysis of Macroevolutionary Mixtures), a program for modeling complex dynamics of speciation, extinction, and trait evolution on phylogenetic trees
+* [BAMM](http://bamm-project.org/) Bayesian Analysis of Macroevolutionary Mixtures
 
 * [SAM](http://ecoevol.ufg.br/sam/)
 
-* [DIVA-GIS](http://www.diva-gis.org/)
-
-* [Biodiverse](https://github.com/shawnlaffan/biodiverse)
+* [Biodiverse](https://github.com/shawnlaffan/biodiverse) Phylogenetic Diversity and Conservation
 
 * [EcoSim](http://www.garyentsminger.com/ecosim/index.htm)
 
@@ -356,21 +356,19 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Lifemapper](http://www.lifemapper.org/)
 
-* [MAXENT](https://biodiversityinformatics.amnh.org/open_source/maxent/)
+* [DIVA-GIS](http://www.diva-gis.org/)
 
-* [SSDM](https://github.com/sylvainschmitt/SSDM) 
+* [MAXENT](https://biodiversityinformatics.amnh.org/open_source/maxent/) Species Distribution Modelling using Maxim Entropy
 
-* [BIOMOD](http://www.will.chez-alice.fr/Software.html)
+* [SSDM R package](https://github.com/sylvainschmitt/SSDM) Species Distribution Modelling
 
-* [SDMtoolbox](http://sdmtoolbox.org/)
+* [BIOMOD R package](http://www.will.chez-alice.fr/Software.html) Species Distribution Modelling
+
+* [SDMtoolbox](http://sdmtoolbox.org/) A Python Library for Species Distribution Modelling
 
 # Resources for statistics in R
 
 * [R project](https://cran.r-project.org/)
-
-* [Bioconductor](https://www.bioconductor.org/)
-
-* [R Free Documents](https://cran.r-project.org/other-docs.html)
 
 * [Quick R](http://www.statmethods.net/)
 
@@ -394,13 +392,13 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Statistics with R](http://zoonek2.free.fr/UNIX/48_R/all.html)
 
-* [Crantastic](https://crantastic.org/)
-
 * [R-Tips](http://pj.freefaculty.org/R/Rtips.html)
 
 * [Create Maps with R geographical Classes ](https://www.nceas.ucsb.edu/scicomp/usecases/CreateMapsWithRGraphics)
 
 * [Applied Spatial Statistics in R](http://www.people.fas.harvard.edu/~zhukov/spatial.html)
+
+* [Spatial Analysis by Robert Hijmans](http://rspatial.org/intr/)
 
 * [r-popgen-hackathon](https://github.com/NESCent/r-popgen-hackathon)
 
@@ -482,7 +480,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [WorldClim](http://www.worldclim.org/)
 
-* [Global Soil at 1km resolution](ftp//ftp.soilgrids.org/)
+* [Global Soil at 1km resolution]( ftp://ftp.soilgrids.org/ )
 
 # Contact
 Please contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake. 
