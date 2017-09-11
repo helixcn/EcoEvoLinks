@@ -4,7 +4,7 @@
 - [Journals](#journals)
 - [Research Groups/Network](#research-groups/network)
     - [Macroecology and Biogeography](#macroecology-and-biogeography)
-    - [Biodiversity and Global Change Lab](#biodiversity-and-global-change-lab)
+    - [Labs for Biodiversity and Global Change](#labs-for-biodiversity-and-global-change)
     - [Phylogenetic Comparative Methods ans Evolutionary Ecology](#phylogenetic-comparative-methods-ans-evolutionary-ecology)
     - [Biodiversity and the determinants](#biodiversity-and-the-determinants)
     - [Theoretical Ecology](#theoretical-ecology)
@@ -15,10 +15,6 @@
     - [Phylogenetic Software Developers](#phylogenetic-software-developers)
     - [Researchers in China](#researchers-in-china)
 - [Data Sources for Ecology and Evolution](#data-sources-for-ecology-and-evolution)
-- [Herbaria around the world](#herbaria-around-the-world)
-    - [Asia](#asia)
-    - [Europe](#europe)
-    - [North America](#north-america)
 - [Online Courses](#online-courses)
 - [Software](#software)
     - [R resources](#r-resources)
@@ -52,21 +48,17 @@
 * [Global Ecology and Biogeography](http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291466-8238)
 * [Conservation Biology](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1523-1739)
 * [Journal of Ecology](http://besjournals.onlinelibrary.wiley.com/hub/journal/10.1111/(ISSN)1365-2745/)
-* [Oecologia](http://link.springer.com/journal/442)
+* [Oecologia](https://link.springer.com/journal/442)
 * [New Phytologist](http://onlinelibrary.wiley.com/doi/10.1111/nph.2011.190.issue-4/issuetoc)
 * [Botanical Journal of the Linnean Society](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1095-8339)
 * [Taxon](http://www.ingentaconnect.com/content/iapt/tax)
 ## Botanical or Ecological Journals in China
 * [Journal of Systematics and Evolution](http://www.jse.ac.cn/)
 * [Plant Diversity](http://journal.kib.ac.cn/EN/column/column79.shtml)
-* [Biodiversity Science in Chinese](http://www.biodiversity-science.net/CN/volumn/current.shtml)
+* [Biodiversity Science ](http://www.biodiversity-science.net/CN/volumn/current.shtml)
 * [Guihaia, in Chinese](http://www.guihaia-journal.com/ch/index.aspx)
-* [Plant Science Journal, in Chinese](http://www.whzwxyj.cn/CN/volumn/current.shtml)
-* [Bulletin of Botanical Research, in Chinese](http://bbr.nefu.edu.cn/CN/volumn/current.shtml)
-* [Bulletin of Botany](http://www.chinbullbotany.com/CN/volumn/home.shtml)
-* [Acta Ecologica Sinica](http://www.ecologica.cn/stxb/ch/index.aspx)
 # Research Network
-* [Phylodiversity network](http://www.phylodiversity.net/)
+* [Phylodiversity network](http://phylodiversity.net/)
 * [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
 ## Macroecology and Biogeography
 * [Prof. Jetz W. ](http://jetzlab.yale.edu/) - Yale University, USA
@@ -77,7 +69,7 @@
 * [Dr. Lavergne](http://seb.lavergne.free.fr/index.html) - Laboratoire d'Ecologie Alpine (LECA) CNRS - Université Grenoble Alpes (UMR 5553)
 * [Prof. Carsten Rahbek](http://macroecology.ku.dk/) - Univerisity of Copenhagen, Denmark 
 * [Dr. Holger Kreft](http://www.uni-goettingen.de/en/218853.html) - University of Goettingen
-## Biodiversity and Global Change Lab
+## Labs for Biodiversity and Global Change
 * [Dr. Miguel B. Araújo](http://www.maraujolab.com/) - PREDICTING THE EFFECTS OF ENVIRONMENTAL CHANGE ON BIODIVERSITY
 * [Prof. Brown J.](http://biology.unm.edu/jhbrown/index.shtml) - Interdisciplinary Biology, Community Ecology, Biogeography, Allometry
 * [Prof. Gaston](http://kevingaston.com/)  - Conservation at University of Exeter
@@ -191,10 +183,8 @@
 ## Invasion Ecology
 * [Prof. Jonathan Levine](https://www.ethz.ch/content/specialinterest/usys/ibz/plant-ecology/en/people/person-detail.html?persid=180149)
 * [Amphibia Evolution Lab (Belgium)](http://www.amphibia.be/Amphibia/Home.html)
-## Researchers in China
-* [Prof. Huang Shuangquan 黄双全](http://www.plantsystematics.com/cn/bianwehui/huangsuanq.asp) - Wuhan University
+## Ecologists in China
 * [Prof. Kunfang Cao 曹坤芳](http://www.plant-ecophysiology-evolution.com/person/cao-kunfang/) - Guangxi University
-* [Prof. Chen Xiaoyong 陈小勇](http://faculty.ecnu.edu.cn/s/119/main.jspy) - Eastern China Normal University
 * [Prof. Wang Xihua 王希华](http://faculty.ecnu.edu.cn/s/1267/main.jspy) - Eastern China Normal University
 * [Prof. Zhou Shurong 周淑荣](http://life.fudan.edu.cn/Data/View/1460) - Fundan University
 * [Prof. Mingjian Yu 于明坚](http://mypage.zju.edu.cn/fishmj) - Zhejiang University
@@ -202,9 +192,7 @@
 * [Dr. Huijie Qiao 乔慧捷](https://scholar.google.com/citations?user=AtJSLK0AAAAJ&hl=en)
 * [Prof. Keping Ma 马克平](http://www.biodiv.ibcas.ac.cn/staff/makeping.html) -IBCAS
 * [Prof. Xuejun Ge 葛学军](http://sourcedb.scib.cas.cn/yw/rck/200908/t20090814_2401337.html) - SCBG
-* [Prof. Chen Zhiduan 陈之端](http://www.lseb.cn/chenzhiduan) -IBCAS
 * [Prof. Wang Zhiheng 王志恒](https://scholar.google.com/citations?user=aU3Ag4MAAAAJ) - Peking University
-* [Dr. Shaopeng Li 黎绍鹏](http://shaopengli.weebly.com/)  - Georgia Institute of Technology, Atlanta
 * [Dr. Shengbin Chen 陈圣宾](http://shengbin.weebly.com) - Nanjing Institute of Environmental Sciences, Ministry of Environmental Protection
 * [Dr. Jihong Huang 黄继红](http://huangjihong.weebly.com/) - Chinese Academy of Forestry
 * [Dr. Xiaojuan Liu 刘晓娟](http://www.cfbiodiv.org/news.asp?id=5257) -IBCAS
@@ -213,6 +201,12 @@
 * [Dr. Gang Feng 冯刚](http://see.imu.edu.cn/info/1084/1911.htm) - Inner Mongolia University
 * [Dr. Nancai Pei 裴男才](http://nancaipei.weebly.com/index.html) - Research Institute of Tropical Forestry, the Chinese Academy of Forestry
 * [Dr. Mi Xiangcheng 米湘成](http://www.biodiv.ibcas.ac.cn/staff/mixiangcheng.html) -IBCAS
+
+* [Dr. Lin Luxiang 林露湘](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201303/t20130321_3802756.html)
+
+* [Dr. Yang jie 杨洁](http://sourcedb.xtbg.cas.cn/zw/zjrck/fyjy/201611/t20161128_4707436.html)
+
+* [Dr. Li Rong 李嵘](http://sourcedb.kib.cas.cn/zw/zjrc/fyjy/201508/t20150831_4418645.html)
 ## More Researchers in China
 * [Editorial Committee of JSE](http://www.plantsystematics.com/cn/bwh.asp)
 * [Editorial Committee of Biodiversity Science](http://www.biodiversity-science.net/CN/column/column12.shtml)
@@ -228,42 +222,6 @@
 * [Gentry's Transect Dataset](http://www.mobot.org/MOBOT/Research/gentry/transect.shtml)
 * [TimeTree](http://www.timetree.org/) - The divergence Time between two taxa
 * [TRY](https://www.try-db.org/TryWeb/Data.php) - a global database of plant traits
-# Online Flora
-* [Flora of China](http://www.efloras.org/flora_page.aspx?flora_id=2 )
-* [Flora Reipublicae Popularis Sinicae ](http://frps.eflora.cn/ )
-* [Flora of Taiwan](http://subject.forest.gov.tw/species/vascular/index.htm )
-# Herbaria around the world
-Contents of this section originally from [Hong Kong Herbarium](http://herbarium.gov.hk/)
-Please also refers to: 
-* [Selected Links of botanical Links from the University of Florida Herbarium](https://www.flmnh.ufl.edu/herbarium/links/botselec.htm)
-* [Index Herbariorum](http://sweetgum.nybg.org/science/ih/)
-### Asia
-* [Chinese National Herbarium, Institute of Botany, CAS, Beijing](http://pe.ibcas.ac.cn/ ) - PE
-* [Kunming Institute of Botany, CAS, Yunnan](http://www.kib.ac.cn/ ) - KUN
-* [National University of Taiwan, Taipei](http://tai2.ntu.edu.tw/default.htm ) - TAI
-* [Herbarium, Institute of Botany, Academia Sinica, Taipei](http://hast.sinica.edu.tw/ ) - HAST
-* [Makino Herbarium ](http://ameba.i.hosei.ac.jp/BIDP/MakinoCD/makino/html_e/index.html) - MAK
-* [Central-National-Herbarium, India](http://bsi.gov.in/Center/206_7_Central-National-Herbarium.aspx) - CNH
-* [Philippine National Herbarium, Manila](http://www.pnh.com.ph/) -PNH
-* [The Forest Herbarium, Thailand](http://www.dnp.go.th/botany/Botany_Eng/index.aspx ) - BKF
-* [University of Malaya Herbarium](http://rimba.um.edu.my/) - KLU
-### Europe
-* [The Natural History Museum, London, UK ("British Museum")](http://www.nhm.ac.uk/ ) - BM
-* [Herbarium of the Royal Botanical Gardens, Kew, UK](http://apps.kew.org/herbcat/navigator.do) - K
-* [Herbarium of the Royal Botanical Gardens, Edinburgh, Scotland](http://www.rbge.org.uk/) - E
-* [Herbarium of the Botanical Museum Berlin-Dahlem, Germany](http://www.bgbm.org/de/herbarium ) -B
-
-* [Museum National D'Histoire Naturelle, Paris](https://science.mnhn.fr/all/search) - P 
-
-* [Naturalis Biodiversity Center, Leiden](https://science.naturalis.nl/en/collection/naturalis-collections/botany/)
-* [Natural History Museum of Florence (Firenze), Italy](http://www.msn.unifi.it/mdswitch.html) - FI
-### North America
-* [Herbarium of the New York Botanical Garden, Bronx, NY](http://www.nybg.org/ ) - NY
-* [Herbarium of the Missouri Botanical Garden, St. Louis, MO](http://www.missouribotanicalgarden.org/ ) - MO
-* [The University and Jepson Herbaria, University of California, Berkeley, CA](http://ucjeps.berkeley.edu/) - UC
-* [US National Herbarium, The Smithsonian Institutions, Washington DC](http://botany.si.edu/colls/collections_overview.htm ) - US
-* [Harvard University Herbaria, Cambridge, MA](https://huh.harvard.edu/ ) - HUH
-* [University of Florida Herbarium](https://www.floridamuseum.ufl.edu/default.htm) - FLAS
 # Online Courses
 * [Review Course: Markov Chains and Monte Carlo Methods](http://users.aims.ac.za/~ioana/)
 * [Bayesian Methods](https://legacy.voteview.com/Bayes_ucsd.htm)
@@ -322,12 +280,6 @@
 * [R Studio](https://www.rstudio.com/)
 
 * [R Markdown](http://rmarkdown.rstudio.com/)
-## LaTeX
-* [TeXLive](https://www.tug.org/texlive/)
-* [MikTeX](https://miktex.org/)
-* [Chinese LaTeX](http://www.ctex.org/HomePage)
-* [Latex Course in Chinese](http://math.ecnu.edu.cn/~latex/)
-* [An Excellent Equation Editor](http://equalx.sourceforge.net/)
 ## Software for Phylogenetic Comparative Methods
 * [Seqtrace](https://code.google.com/archive/p/seqtrace/downloads) Extracting DNA sequences from ab1 files.
 * [Tree Thinkers](http://treethinkers.org/)
@@ -344,26 +296,24 @@
 * [TreePL](https://github.com/blackrim/treePL) Time Calibration for Large Trees
 
 * [TimeTree](http://www.timetree.org/) - The divergence Time between two taxa, widely used in molecular dating.
-* [PhyloBayes](http://bioinformatics.oxfordjournals.org/content/25/17/2286.full)
 * [multidivtime](http://statgen.ncsu.edu/thorne/multidivtime.html)
 * [Mesquite](http://mesquiteproject.wikispaces.com/)
 * [Phylocom](http://phylodiversity.net/phylocom/)
 * [APE](http://ape-package.ird.fr/)
 
+* [diversitree] https://cran.r-project.org/web/packages/diversitree/index.html
+
 * [RASP](http://mnh.scu.edu.cn/soft/blog/RASP/index.html) Reconstruction of Ancestral Area
 * [Lagrange](https://github.com/rhr/lagrange-python) Reconstruction of Ancestral Area using Maximum Likelihood
 
 * [BioGeoBEARS](http://phylo.wikidot.com/biogeobears) Reconstruction of Ancestral Area
-* [laser](http://cran.r-project.org/web/packages/laser/index.html) Estimation of Speciation Rate 
 
 * [BAMM](http://bamm-project.org/) BAMM (Bayesian Analysis of Macroevolutionary Mixtures), a program for modeling complex dynamics of speciation, extinction, and trait evolution on phylogenetic trees
 
 ## Software for Ecological Modelling, Biogeography & Conservation
-* [Forward Selectoin](http://r-forge.r-project.org/R/?group_id=195)
 * [SAM](http://ecoevol.ufg.br/sam/)
 * [DIVA-GIS](http://www.diva-gis.org/)
 * [Biodiverse](https://github.com/shawnlaffan/biodiverse)
-* [MARXAN](http://www.ecology.uq.edu.au/index.html?page=27710)
 * [MultCSync](http://uts.cc.utexas.edu/~consbio/Cons/)
 * [Surrogacy](http://uts.cc.utexas.edu/~philsci/sarkar/main.html)
 * [EcoSim](http://www.garyentsminger.com/ecosim/index.htm)
