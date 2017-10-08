@@ -100,9 +100,9 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Hunt G.](http://paleobiology.si.edu/staff/individuals/hunt.cfm)
 
-* [Hurbert A.](http://labs.bio.unc.edu/Hurlbert/ )
+* [Hurbert A.](http://labs.bio.unc.edu/Hurlbert/)
 
-* [Ingram T.](http://www.otago.ac.nz/zoology/staff/ingram.html ) -
+* [Ingram T.](http://www.otago.ac.nz/zoology/staff/ingram.html )
 
 * [Ives A.](https://ives.labs.wisc.edu/)
 
@@ -484,7 +484,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [WorldClim](http://www.worldclim.org/)
 
-* [Global Soil at 1km resolution]( ftp://ftp.soilgrids.org/ )
+* [Global Soil at 1km resolution](ftp://ftp.soilgrids.org/)
 
 # Contact
 Please contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake.
