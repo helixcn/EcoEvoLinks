@@ -8,7 +8,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Evolutionary Community Ecology Group](http://www.eec.univ-montp2.fr/) - Université Montpellier II
 
-* [Ackerly D.](http://www.ackerlylab.org/) 
+* [Ackerly D.](http://www.ackerlylab.org/)
 
 * [Angert A.](http://angert.botany.ubc.ca/) - at the interface of ecology and evolutionary biology
 
@@ -40,7 +40,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Chen Shengbin](http://shengbin.weebly.com) - Nanjing Institute of Environmental Sciences, Ministry of Environmental Protection
 
-* [Comita L.](http://lizacomita.weebly.com/) 
+* [Comita L.](http://lizacomita.weebly.com/)
 
 * [Corlett R.](http://sourcedb.cas.cn/sourcedb_xtbg_cas/yw/rc/fas/201208/t20120814_3626801.html) - Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences
 
@@ -64,7 +64,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Feng Gang](http://see.imu.edu.cn/info/1084/1911.htm) - Inner Mongolia University
 
-* [Freckleton R.](https://www.sheffield.ac.uk/aps/staff-and-students/acadstaff/freckleton ) - Plant population ecology, modelling plant populations, modelling weed populations. Evolutionary ecology, phylogenetic comparative methodology and its application to ecological problems. 
+* [Freckleton R.](https://www.sheffield.ac.uk/aps/staff-and-students/acadstaff/freckleton ) - Plant population ecology, modelling plant populations, modelling weed populations. Evolutionary ecology, phylogenetic comparative methodology and its application to ecological problems.
 
 * [Garland T.](http://www.biology.ucr.edu/people/faculty/Garland/Garland2.html ) -UC Riverside
 
@@ -78,7 +78,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Graham C.](http://catherinegraham.weebly.com/) - Stony Brook University
 
-* [Green J.](http://pages.uoregon.edu/green/) 
+* [Green J.](http://pages.uoregon.edu/green/)
 
 * [Guisan A.](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-antoine-guisan.html) - Univerisite de Lausanne
 
@@ -102,7 +102,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Hurbert A.](http://labs.bio.unc.edu/Hurlbert/ )
 
-* [Ingram T.](http://www.otago.ac.nz/zoology/staff/ingram.html ) - 
+* [Ingram T.](http://www.otago.ac.nz/zoology/staff/ingram.html ) -
 
 * [Ives A.](https://ives.labs.wisc.edu/)
 
@@ -168,7 +168,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Purvis A.](http://www.imperial.ac.uk/people/a.purvis ) - Natural History Museum, London, UK
 
-* [Pyšek P.](http://www.ibot.cas.cz/personal/pysek/ ) - Department of invasion ecology Botanický ústav Akademie věd ČR/Institute of Botany, Academy of Sciences of the Czech Republic 
+* [Pyšek P.](http://www.ibot.cas.cz/personal/pysek/ ) - Department of invasion ecology Botanický ústav Akademie věd ČR/Institute of Botany, Academy of Sciences of the Czech Republic
 
 * [Qian Hong](https://www.researchgate.net/profile/Hong_Qian3) - Illinois State Museum, USA
 
@@ -178,7 +178,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Rabosky D.](http://www-personal.umich.edu/~drabosky/Home.html ) University of Michigan
 
-* [Rahbek C.](http://macroecology.ku.dk/) - Univerisity of Copenhagen, Denmark 
+* [Rahbek C.](http://macroecology.ku.dk/) - Univerisity of Copenhagen, Denmark
 
 * [Schluter D.](https://www.zoology.ubc.ca/~schluter/wordpress/) - University of British Columbia
 
@@ -298,7 +298,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Geneious](https://www.geneious.com/) An integrated system for phylogenetic analysis
 
-* [CLUSTAL](http://www.clustal.org/) Alignment 
+* [CLUSTAL](http://www.clustal.org/) Alignment
 
 * [MUSCLE](http://www.ebi.ac.uk/Tools/msa/muscle/)
 
@@ -406,6 +406,10 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Data Mining by Dr, Michael Hahsler](http://michael.hahsler.net/SMU/EMIS7332/)
 
+* [Prof. Bolker's Rpub](http://rpubs.com/bbolker/)
+
+* [Prof. Bolker's Mixed Models Github Page](http://bbolker.github.io/mixedmodels-misc/)
+
 # Online Courses
 
 * [Review Course: Markov Chains and Monte Carlo Methods](http://users.aims.ac.za/~ioana/)
@@ -466,7 +470,7 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [DRYAD](http://datadryad.org/)
 
-* [CTFS](http://www.forestgeo.si.edu/) 
+* [CTFS](http://www.forestgeo.si.edu/)
 
 * [CFBIO](http://www.cfbiodiv.org/)
 
@@ -484,4 +488,3 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 # Contact
 Please contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake.
-
