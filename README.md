@@ -476,15 +476,15 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 * [Gentry's Transect Dataset](http://www.mobot.org/MOBOT/Research/gentry/transect.shtml)
 
-* [TimeTree](http://www.timetree.org/) - The divergence Time between two taxa
+* [TimeTree](http://www.timetree.org/) The divergence Time between two taxa
 
-* [TRY](https://www.try-db.org/TryWeb/Data.php) - A global database of plant traits
+* [TRY](https://www.try-db.org/TryWeb/Data.php) A global database of plant traits
 
 * [CHELSA, Climatologies at high resolution for the earth’s land surface areas](http://chelsa-climate.org/)
 
 * [WorldClim](http://www.worldclim.org/)
 
-* [Global Soil at 1km resolution](ftp://ftp.soilgrids.org/)
+* [Global Soil at 1km resolution ftp://ftp.soilgrids.org/](https://soilgrids.org)
 
 # Contact
 Please contact [Jinlong Zhang](jinlongzhang01@gmail.com) if you find any mistake.
