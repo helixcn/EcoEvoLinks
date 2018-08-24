@@ -1,6 +1,5 @@
 ---
 title: Resources for Ecology, Evolution and Phylogenetic Comparative Methods
-author: Jinlong Zhang
 date: 2018-8-24
 ---
 
