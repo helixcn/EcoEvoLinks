@@ -1,5 +1,6 @@
 ---
 title: Resources for Ecology, Evolution and Phylogenetic Comparative Methods
+author: Jinlong Zhang
 date: 2018-8-24
 ---
 
@@ -312,67 +313,90 @@ Welcome to the curated list for Phylogenetic Comparative Methods.
 
 # Journals
 
-* [American Journal of Botany](https://onlinelibrary.wiley.com/journal/15372197)
 
-* [Annual Review of Ecology and Systematics](https://www.annualreviews.org/journal/ecolsys)
+| Journal                                                         | Website                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Advances in Botanical Research                               | https://www.sciencedirect.com/bookseries/advances-in-botanical-research |
+| American Journal of Botany                                   | https://bsapubs.onlinelibrary.wiley.com/journal/15372197     |
+| Annals of Botany                                             | https://academic.oup.com/aob                                 |
+| Annual Review of Ecology, Evolution, and Systematics          |https://www.annualreviews.org/journal/ecolsys                |
+| Applications in Plant Sciences (APPS)                        | https://bsapubs.onlinelibrary.wiley.com/journal/21680450#    |
+| Austral Ecology                                              | https://onlinelibrary.wiley.com/journal/14429993             |
+| Basic and Applied Ecology                                    | https://www.journals.elsevier.com/basic-and-applied-ecology  |
+| Biodiversity and Conservation                                | https://link.springer.com/journal/10531                      |
+| Bioinformatics                                               | https://academic.oup.com/bioinformatics                      |
+| Biological Conservation                                      | https://www.journals.elsevier.com/biological-conservation    |
+| Biology Letters                                              | https://royalsocietypublishing.org/journal/rsbl              |
+| Biotropica                                                   | https://onlinelibrary.wiley.com/journal/17447429             |
+| BMC Plant Biology                                            | https://bmcplantbiol.biomedcentral.com/                      |
+| Botanical Journal of the Linnean Society                     | https://onlinelibrary.wiley.com/journal/10958339             |
+| Cladistics                                                   | https://onlinelibrary.wiley.com/journal/10960031             |
+| Conservation Biology                                         | https://onlinelibrary.wiley.com/journal/15231739             |
+| Conservation Letters                                         | https://onlinelibrary.wiley.com/journal/1755263x             |
+| Current Opinion in Plant Biology                             | https://www.journals.elsevier.com/current-opinion-in-plant-biology |
+| Diversity and Distributions                                  | https://onlinelibrary.wiley.com/journal/14724642             |
+| Ecography                                                    | https://onlinelibrary.wiley.com/journal/16000587             |
+| Ecological Applications                                      | https://esajournals.onlinelibrary.wiley.com/journal/19395582 |
+| Ecological Indicators                                        | https://www.journals.elsevier.com/ecological-indicators      |
+| Ecological Modelling                                         | https://www.journals.elsevier.com/ecological-modelling       |
+| Ecological Monographs                                        | https://esajournals.onlinelibrary.wiley.com/journal/15577015 |
+| Ecological Research                                          | https://esj-journals.onlinelibrary.wiley.com/journal/14401703 |
+| Ecology                                                      | https://esajournals.onlinelibrary.wiley.com/journal/19399170 |
+| Ecology and Evolution                                        | https://onlinelibrary.wiley.com/journal/20457758             |
+| Ecology Letters                                              | https://onlinelibrary.wiley.com/journal/14610248             |
+| Ecosphere                                                    | https://esajournals.onlinelibrary.wiley.com/journal/21508925 |
+| Evolution                                                    | https://onlinelibrary.wiley.com/journal/15585646             |
+| Frontiers in Ecology and Evolution                           | https://www.frontiersin.org/journals/ecology-and-evolution   |
+| Frontiers in Plant Science                                   | https://www.frontiersin.org/journals/plant-science           |
+| Frontiers of Biogeography                                    | https://escholarship.org/uc/fb                               |
+| Functional Ecology                                           | https://besjournals.onlinelibrary.wiley.com/journal/13652435 |
+| Giga Science                                                 | https://academic.oup.com/gigascience                         |
+| Global Change Biology                                        | https://onlinelibrary.wiley.com/journal/13652486             |
+| Global Ecology and Biogeography                              | https://onlinelibrary.wiley.com/journal/14668238             |
+| Global Ecology and Conservation                              | https://www.journals.elsevier.com/global-ecology-and-conservation |
+| Heredity                                                     | https://www.nature.com/hdy/                                  |
+| International Journal of Plant Sciences                      | https://www.journals.uchicago.edu/toc/ijps/current           |
+| Journal of Animal Ecology                                    | https://besjournals.onlinelibrary.wiley.com/journal/13652656 |
+| Journal of Applied Ecology                                   | https://besjournals.onlinelibrary.wiley.com/journal/13652664 |
+| Journal of Biogeography                                      | https://onlinelibrary.wiley.com/journal/13652699             |
+| Journal of Ecology                                           | https://besjournals.onlinelibrary.wiley.com/journal/13652745 |
+| Journal   of Plant Ecology                                   | https://academic.oup.com/jpe                                 |
+| Journal of Plant Research                                    | https://link.springer.com/journal/10265                      |
+| Journal of Systematics and Evolution                         | https://onlinelibrary.wiley.com/journal/17596831             |
+| Journal of Threatened Taxa                                   | https://threatenedtaxa.org/                                  |
+| Landscape Ecology                                            | https://link.springer.com/journal/10980                      |
+| Methods in Ecology and Evolution                             | https://besjournals.onlinelibrary.wiley.com/journal/2041210x |
+| Molecular Ecology                                            | https://onlinelibrary.wiley.com/journal/1365294x             |
+| Molecular Phylogenetics and Evolution                        | https://www.journals.elsevier.com/molecular-phylogenetics-and-evolution |
+| National Science Review (NSR)                                | https://academic.oup.com/nsr                                 |
+| Nature                                                       | https://www.nature.com/                                      |
+| Nature Ecology and Evolution                                 | https://www.nature.com/natecolevol                           |
+| Nature Plants                                                | https://www.nature.com/nplants/                              |
+| New Phytologist                                              | https://nph.onlinelibrary.wiley.com/journal/14698137         |
+| Nordic Journal of Botany                                     | https://onlinelibrary.wiley.com/journal/17561051             |
+| NOVON                                                        | https://novon.mobot.org/                                     |
+| Oecologia	                                                   | https://link.springer.com/journal/442                        | 
+| Oikos                                                        | https://onlinelibrary.wiley.com/journal/16000706             |
+| Perspectives in Plant Ecology, Evolution   and Systematics   | https://www.journals.elsevier.com/perspectives-in-plant-ecology-evolution-and-systematics |
+| Phytotaxa                                                    | https://www.mapress.com/phytotaxa/                           |
+| Plant Diversity                                              | https://www.sciencedirect.com/journal/plant-diversity        |
+| PLoS Biology                                                 | https://journals.plos.org/plosbiology/                       |
+| PLOS ONE                                                     | http://journals.plos.org/plosone                             |
+| Proceedings of the National Academy of   Sciences            | https://www.pnas.org/                                        |
+| Proceedings of the Royal Society B:   Biological Sciences recent issues | https://royalsocietypublishing.org/journal/rspb              |
+| Science                                                      | http://science.sciencemag.org                                |
+| Science Advances                                             | https://advances.sciencemag.org/                             |
+| Science of the Total Environment                             | https://www.journals.elsevier.com/science-of-the-total-environment |
+| Scientific Reports                                           | https://www.nature.com/srep/                                 |
+| Systematic Biology                                           | https://academic.oup.com/sysbio                              |
+| Systematic Botany                                            | https://bioone.org/journals/systematic-botany/issues         |
+| TAXON                                                        | https://onlinelibrary.wiley.com/journal/19968175             |
+| The American Naturalist                                      | https://www.journals.uchicago.edu/toc/an/current             |
+| The Plant Journal                                            | https://onlinelibrary.wiley.com/journal/1365313x             |
+| Theoretical Ecology                                          | https://link.springer.com/journal/12080                      |
+| Trends in Ecology and Evolution                              | https://www.cell.com/trends/ecology-evolution/home           |
 
-* [Biodiversity Science](http://www.biodiversity-science.net/CN/volumn/home.shtml) in Chinese
-
-* [Botanical Journal of the Linnean Society](https://academic.oup.com/botlinnean)
-
-* [Conservation Biology](https://onlinelibrary.wiley.com/journal/15231739)
-
-* [Diversity and Distributions](https://onlinelibrary.wiley.com/journal/14724642)
-
-* [Ecography](https://onlinelibrary.wiley.com/journal/16000587)
-
-* [Ecological Monographs](http://www.esapubs.org/esapubs/journals/monographs.htm)
-
-* [Ecology Letters](https://onlinelibrary.wiley.com/journal/14610248)
-
-* [Ecology](https://esajournals.onlinelibrary.wiley.com/journal/19399170)
-
-* [Evolution](https://onlinelibrary.wiley.com/journal/15585646)
-
-* [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/journal/14668238)
-
-* [Guihaia](http://www.guihaia-journal.com/ch/index.aspx)
-
-* [Journal of Biogeography](https://onlinelibrary.wiley.com/journal/13652699)
-
-* [Journal of Ecology](https://besjournals.onlinelibrary.wiley.com/journal/13652745)
-
-* [Journal of Systematics and Evolution](http://www.jse.ac.cn/)
-
-* [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210x)
-
-* [Molecular Ecology](https://onlinelibrary.wiley.com/journal/1365294x)
-
-* [Nature](https://www.nature.com/)
-
-* [New Phytologist](https://nph.onlinelibrary.wiley.com/toc/14698137/190/4)
-
-* [Oecologia](https://link.springer.com/journal/442)
-
-* [Oikos](https://onlinelibrary.wiley.com/journal/16000706)
-
-* [Plant Diversity](http://journal.kib.ac.cn/EN/column/column79.shtml)
-
-* [PLoS ONE](http://journals.plos.org/plosone/)
-
-* [Proc. Nat. Acad. Sci.](http://www.pnas.org/)
-
-* [Proc. Royal. Soc. Biolog.](http://rspb.royalsocietypublishing.org/)
-
-* [Science](http://science.sciencemag.org/)
-
-* [Scientific Reports](http://www.nature.com/srep/)
-
-* [Taxon](http://www.ingentaconnect.com/content/iapt/tax)
-
-* [The American Naturalist](https://www.journals.uchicago.edu/toc/an/current)
-
-* [Trends in Ecology and Evolution](https://www.journals.elsevier.com/trends-in-ecology-and-evolution/)
+I would like to thank Dr. Yu Xiaoya and Prof. Ge Xuejun for comments
 
 # Software
 
